@@ -1,0 +1,206 @@
+{
+    "catalyst_name": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The systematic or common nameof the catalyst complex.",
+        "Example Values": "",
+        "Constraints": "Not Null"
+    },
+    "catalyst_ccdc_number": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The Cambridge CrystallographicData Centre reference number.",
+        "Example Values": "259500",
+        "Constraints": "Can be Null"
+    },
+    "2d_structure": {
+        "DataType": "string",
+        "Description & StandardDefinition": "The 2D structure of the catalyst in ChemDraw/ image/chemicalSMILE form.",
+        "Example Values": "MeMeCSi,MeZrCl2Me,MeMe or Image I/Image II",
+        "Constraints": "Can be Null"
+    },
+    "3d_structure": {
+        "DataType": "String",
+        "Description & StandardDefinition": "Three-dimensional structure ofthe catalyst.",
+        "Example Values": "Image I",
+        "Constraints": "Not Null"
+    },
+    "catalyst_metal": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The metal center of the catalyst.",
+        "Example Values": "Zr, Ti, Ni,Pd, Fe,Co, Hf....",
+        "Constraints": "Not Null"
+    },
+    "catalyst_metal_oxidation_state": {
+        "DataType": "Integer",
+        "Description & StandardDefinition": "The formal oxidation state of themetal center which is basicallythe formal charge the metal ionwould have if all the ligandswere removed along with theelectrons they donate.",
+        "Example Values": "0,+2,+3,+4,+5,+6...",
+        "Constraints": "Can be Null"
+    },
+    "catalyst_ligand_type": {
+        "DataType": "String",
+        "Description & StandardDefinition": "Classification of the ligandsystem.",
+        "Example Values": "C1-bridged ansa-zirconocene, CGC,α-diimine",
+        "Constraints": "Not Null"
+    },
+    "catalyst_reference": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The bibliographic reference for the catalyst and its synthesis.",
+        "Example Values": "Ref [1]",
+        "Constraints": "Not Null"
+    },
+    "reaction_type": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The type of polymerizationreaction (classification of polymerization by the type ofreaction or product).",
+        "Example Values": "Homopolymerizati on, Copolymerization, Terpolymerization, Trimerization/Tetramerization /Oligomerization.",
+        "Constraints": "Not Null"
+    },
+    "cocatalyst": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The compound used to activatethe catalyst.",
+        "Example Values": "MAO, MMAO, B(C6F5）,[Ph3C][B(C。 Fs ) ]",
+        "Constraints": "Not Null"
+    },
+    "cocatalyst_ratio": {
+        "DataType": "Integer",
+        "Description & StandardDefinition": "The molar ratio of Cocatalyst toMetal.",
+        "Example Values": "6000,8000....",
+        "Constraints": "Not Null"
+    },
+    "temperature_c": {
+        "DataType": "Integer",
+        "Description & StandardDefinition": "The reaction temperature indegrees Celsius.",
+        "Example Values": "20,40,60,80...",
+        "Constraints": "Not Null"
+    },
+    "pressure_atm": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "The reaction pressure inatmospheres.",
+        "Example Values": "6.80,4.08,10.0...",
+        "Constraints": "Can be Null"
+    },
+    "time_min": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "The reaction time in minutes.",
+        "Example Values": "2.5,10.0,20.0,30.0, 40.0..",
+        "Constraints": "Not Null"
+    },
+    "comonomer_1_name": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The name of the first comonomer(if any).",
+        "Example Values": "1-hexene, 1- octene, norbornene,styrene...",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_1_conC": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "The concentration of the firstcomonomer in mol/L.",
+        "Example Values": "0.1,0.5",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_2_name": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The name of the secondcomonomer (if any).",
+        "Example Values": "：",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_2_conC": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "The concentration of the secondcomonomer in mol/L.",
+        "Example Values": "…",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_3_name": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The name of the thirdcomonomer (if any).",
+        "Example Values": "",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_3_conC": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "The concentration of the thirdcomonomer in mol/L.",
+        "Example Values": "：",
+        "Constraints": "Can be Null"
+    },
+    "monomer_Sequence_in_dimers_or_trimers": {
+        "DataType": "String",
+        "Description & StandardDefinition": "The monomer sequence indimers/trimers simply refers to the specific arrangement of monomer units (A, B,..) in the short chain, which could behomosequence (AAA),alternating (ABA), ormixed/random (AAB, BBA,etc.), depending on the chemistry(if Any).",
+        "Example Values": "",
+        "Constraints": "Can be Null"
+    },
+    "activity": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Catalytic activity, typically in kg_polymer /(mol_metal * h).",
+        "Example Values": "1.5E-04, 2.88E-03",
+        "Constraints": "Can be Null"
+    },
+    "yield_g": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Mass of polymer produced ingrams.",
+        "Example Values": "5.2",
+        "Constraints": "Can be Null"
+    },
+    "selectivity": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Selectivity = accuracy / precisionof product formation (%)",
+        "Example Values": "",
+        "Constraints": "Can be Null"
+    },
+    "Mw_kgmol": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Weight-average molecularweight (Mw) in kg/mol.",
+        "Example Values": "183,796",
+        "Constraints": "Can be Null"
+    },
+    "PDI": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Polydispersity Index (D = Mw /Mn)",
+        "Example Values": "2.4,12.0",
+        "Constraints": "Can be Null"
+    },
+    "Tm_c": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Melting temperature in C.",
+        "Example Values": "117.0, 105.0",
+        "Constraints": "Can be Null"
+    },
+    "Tg_c": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Glass transition temperatureinC.",
+        "Example Values": "20.0,100.5",
+        "Constraints": "Can be Null"
+    },
+    "Td_c": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Degradation temperature in C.",
+        "Example Values": "400.0",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_1_incorp": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Mol% incorporation of the firstcomonomer in the polymer chain.",
+        "Example Values": "3.0,14.0,50.0,52.0",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_2_incorp": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Mol% incorporation of the second comonomer in thepolymer chain.",
+        "Example Values": "",
+        "Constraints": "Can be Null"
+    },
+    "comonomer_3_incorp": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Mol% incorporation of thethirdcomonomer in the polymerchain.",
+        "Example Values": "",
+        "Constraints": "Can be Null"
+    },
+    "elastic_modulus_mpa": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Tensile elastic modulus in MPa.",
+        "Example Values": "1500",
+        "Constraints": "Can be Null"
+    },
+    "tensile_strength_mpa": {
+        "DataType": "Float",
+        "Description & StandardDefinition": "Tensile strength at break in MPa.",
+        "Example Values": "30.0",
+        "Constraints": "Can be Null"
+    }
+}

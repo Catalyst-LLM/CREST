@@ -1,0 +1,34 @@
+llm_extractor:
+  model_name: "deepseek-chat"
+  base_url: "https://api.deepseek.com"
+  api_key: ""
+
+llm_judger:
+  model_name: "deepseek-reasoner"
+  base_url: "https://api.deepseek.com"
+  api_key: ""
+
+mllm_judger:
+  model_name: "qwen-vl-plus"
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  api_key: ""
+
+schema_path: "./configs/schema.json"
+output_dir: "outputs" ## output dir
+
+use_table_classifier: true ## find exp tables
+use_dynamic_context: true ## find dynamic document relate to  tables
+use_evidence: true ## associate evidence with tables via block-id and mllm to check the evidence
+use_confidence: true ## use mllm evidence confidence
+
+# Input mode: single or batch
+input:
+  # mode: "single"
+  # pdf_path: "data/mineru/data.pdf"
+  # json_path: "data/mineru/layout.json
+  mode: "batch"
+  # # If mode is "batch", specify the following two paths:
+  mineru_result_dir: "./data/"
+  # # If mode is "single", specify the following two paths:
+
+# Optionally override output_dir (if not specified, uses the top-level output_dir)
