@@ -1,0 +1,883 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "CpTiCl2(O-2,6-Cl2C6H3) (1)",
+                "yield_g": 0.124,
+                "2d_structure": "",
+                "3d_structure": "Image I (Figure 1, top left)",
+                "Mw_kgmol": null,
+                "PDI": 1.55,
+                "Td_c": null,
+                "Tg_c": 153.0,
+                "Tm_c": null,
+                "activity": 2470.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 10000,
+                "comonomer_1_conc": 1.0,
+                "comonomer_1_incorp": 49.6,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating ethylene-NBE sequences, isolated NBE units, NBE dyads, triads",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 54.7,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(O-2,6-Cl2C6H3) (1)",
+                "yield_g": 0.168,
+                "2d_structure": "",
+                "3d_structure": "Image I (Figure 1, top left)",
+                "Mw_kgmol": null,
+                "PDI": 1.63,
+                "Td_c": null,
+                "Tg_c": 164.0,
+                "Tm_c": null,
+                "activity": 2010.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 6000,
+                "comonomer_1_conc": 2.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 67.8,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(O-2,6-Cl2C6H3) (1)",
+                "yield_g": 0.159,
+                "2d_structure": "",
+                "3d_structure": "Image I (Figure 1, top left)",
+                "Mw_kgmol": null,
+                "PDI": 1.52,
+                "Td_c": null,
+                "Tg_c": 164.0,
+                "Tm_c": null,
+                "activity": 1190.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MMAO-3A-H",
+                "cocatalyst_ratio": 3750,
+                "comonomer_1_conc": 2.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 45.4,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(O-2,4,6-Cl3C6H2) (2)",
+                "yield_g": 0.154,
+                "2d_structure": "CpTiCl2(O-2,4,6-Cl3C6H2)",
+                "3d_structure": "Image I (Figure 1, top right)",
+                "Mw_kgmol": null,
+                "PDI": 1.50,
+                "Td_c": null,
+                "Tg_c": 142.0,
+                "Tm_c": null,
+                "activity": 3090.0,
+                "time_min": 10,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 10000,
+                "comonomer_1_conc": 1.0,
+                "comonomer_1_incorp": 45.3,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating ethylene-NBE sequences, isolated NBE units, NBE dyads, triads",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 74.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(O-2,4,6-Cl3C6H2) (2)",
+                "yield_g": 0.142,
+                "2d_structure": "CpTiCl2(O-2,4,6-Cl3C6H2)",
+                "3d_structure": "Image I (Figure 1, top right)",
+                "Mw_kgmol": null,
+                "PDI": 1.29,
+                "Td_c": null,
+                "Tg_c": 140.0,
+                "Tm_c": null,
+                "activity": 2580.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MMAO-3A-H",
+                "cocatalyst_ratio": 10000,
+                "comonomer_1_conc": 1.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 50800.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(O-2,4,6-Cl3C6H2) (2)",
+                "yield_g": 0.153,
+                "2d_structure": "CpTiCl2(O-2,4,6-Cl3C6H2)",
+                "3d_structure": "Image I (Figure 1, top right)",
+                "Mw_kgmol": null,
+                "PDI": 1.37,
+                "Td_c": null,
+                "Tg_c": 156.0,
+                "Tm_c": null,
+                "activity": 3060.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 6000,
+                "comonomer_1_conc": 2.0,
+                "comonomer_1_incorp": 53.5,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating ethylene-NBE sequences, isolated NBE units, NBE dyads, triads",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 6,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 82.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 6,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(OC6Cl5) (3)",
+                "yield_g": 0.116,
+                "2d_structure": "CpTiCl2(OC6Cl5)",
+                "3d_structure": "Image I (Figure 1, middle left)",
+                "Mw_kgmol": null,
+                "PDI": 1.49,
+                "Td_c": null,
+                "Tg_c": 128.0,
+                "Tm_c": null,
+                "activity": 2320.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 10000,
+                "comonomer_1_conc": 1.0,
+                "comonomer_1_incorp": 42.3,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 60.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(OC6Cl5) (3)",
+                "yield_g": 0.122,
+                "2d_structure": "CpTiCl2(OC6Cl5)",
+                "3d_structure": "Image I (Figure 1, middle left)",
+                "Mw_kgmol": null,
+                "PDI": 1.40,
+                "Td_c": null,
+                "Tg_c": 150.0,
+                "Tm_c": null,
+                "activity": 2030.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MMAO-3A-H",
+                "cocatalyst_ratio": 5000,
+                "comonomer_1_conc": 2.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 6,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 69400.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 6,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "(indenyl)TiCl2(O-2,6-Cl2C6H3) (4)",
+                "yield_g": 0.180,
+                "2d_structure": "(indenyl)TiCl2(O-2,6-Cl2C6H3)",
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.48,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1080.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 3000,
+                "comonomer_1_conc": 1.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 45.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "(indenyl)TiCl2(O-2,6-Cl2C6H3) (4)",
+                "yield_g": 0.140,
+                "2d_structure": "(indenyl)TiCl2(O-2,6-Cl2C6H3)",
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.49,
+                "Td_c": null,
+                "Tg_c": 126.0,
+                "Tm_c": null,
+                "activity": 561.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conc": 2.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 10,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 23.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "(indenyl)TiCl2(O-2,4,6-Cl3C6H2) (5)",
+                "yield_g": 0.127,
+                "2d_structure": "(indenyl)TiCl2(O-2,4,6-Cl3C6H2)",
+                "3d_structure": "Image I (Figure 1, middle right)",
+                "Mw_kgmol": null,
+                "PDI": 1.27,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 953.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 3750,
+                "comonomer_1_conc": 1.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 40.2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "(indenyl)TiCl2(O-2,4,6-Cl3C6H2) (5)",
+                "yield_g": 0.120,
+                "2d_structure": "(indenyl)TiCl2(O-2,4,6-Cl3C6H2)",
+                "3d_structure": "Image I (Figure 1, middle right)",
+                "Mw_kgmol": null,
+                "PDI": 1.44,
+                "Td_c": null,
+                "Tg_c": 101.0,
+                "Tm_c": null,
+                "activity": 601.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2500,
+                "comonomer_1_conc": 2.0,
+                "time_min": 10,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 34.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "(indenyl)TiCl2(OC6Cl5) (6)",
+                "yield_g": 0.176,
+                "2d_structure": "(indenyl)TiCl2(OC6Cl5)",
+                "3d_structure": "Image I (Figure 1, bottom left)",
+                "Mw_kgmol": null,
+                "PDI": 1.36,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 813.0,
+                "catalyst_ccdc_number": null,
+                "time_min": 10,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2308,
+                "comonomer_1_conc": 1.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 36.2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "(indenyl)TiCl2(OC6Cl5) (6)",
+                "yield_g": 0.105,
+                "time_min": 10,
+                "2d_structure": "(indenyl)TiCl2(OC6Cl5)",
+                "3d_structure": "Image I (Figure 1, bottom left)",
+                "Mw_kgmol": null,
+                "PDI": 1.53,
+                "Td_c": null,
+                "Tg_c": 109.0,
+                "Tm_c": null,
+                "activity": 251.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-modified half-titanocene",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in Experimental Section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1200,
+                "comonomer_1_conc": 2.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conc": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conc": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 22.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in mL",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 2"
+    ],
+    "index": [
+        [
+            1,
+            14
+        ]
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "bis(pyrrolide-imine) Ti complex 1",
+                "yield_g": 0.356,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 834.56,
+                "PDI": 1.28,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 4272.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(pyrrolide-imine)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [17b]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 26.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 5,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 652,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_charged_g",
+                        "define": "Mass of norbornene charged in grams",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_E_molar_ratio",
+                        "define": "Molar ratio of norbornene to ethylene in the polymerization medium",
+                        "value": 0.34,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Polymerization duration in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 250,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "ethylene_feed_rate_L_per_h",
+                        "define": "Ethylene gas feed rate in liters per hour",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "bis(pyrrolide-imine) Ti complex 1",
+                "yield_g": 0.206,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 316.35,
+                "PDI": 1.11,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 2472.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(pyrrolide-imine)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [17b]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 45.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 5,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 285,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_charged_g",
+                        "define": "Mass of norbornene charged in grams",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_E_molar_ratio",
+                        "define": "Molar ratio of norbornene to ethylene in the polymerization medium",
+                        "value": 3.4,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Polymerization duration in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 250,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "ethylene_feed_rate_L_per_h",
+                        "define": "Ethylene gas feed rate in liters per hour",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "rac-Et(Ind)2ZrCl2",
+                "yield_g": 0.591,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 245.7,
+                "PDI": 1.95,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 7092.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "metallocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 8.3,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 5,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 126,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_charged_g",
+                        "define": "Mass of norbornene charged in grams",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_E_molar_ratio",
+                        "define": "Molar ratio of norbornene to ethylene in the polymerization medium",
+                        "value": 0.34,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Polymerization duration in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 250,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "ethylene_feed_rate_L_per_h",
+                        "define": "Ethylene gas feed rate in liters per hour",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Me2Si(Me4Cp)(N-tert-Bu)TiCl2",
+                "yield_g": 1.28,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 4.66,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 15360.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CGC",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "iBu3Al/Ph3CB(C6F5)4",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 31.2,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 5,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 858,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_charged_g",
+                        "define": "Mass of norbornene charged in grams",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_E_molar_ratio",
+                        "define": "Molar ratio of norbornene to ethylene in the polymerization medium",
+                        "value": 3.4,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Polymerization duration in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 250,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "ethylene_feed_rate_L_per_h",
+                        "define": "Ethylene gas feed rate in liters per hour",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "iBu3Al_amount_mmol",
+                        "define": "Amount of iBu3Al cocatalyst in millimoles",
+                        "value": 0.25,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Ph3CB(C6F5)4_amount_umol",
+                        "define": "Amount of Ph3CB(C6F5)4 cocatalyst in micromoles",
+                        "value": 6.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1"
+    ],
+    "index": [
+        [
+            1,
+            4
+        ]
+    ]
+}

@@ -1,0 +1,698 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "[Me2Si(Me4Cp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": [
+                    64,
+                    164.0
+                ],
+                "PDI": [
+                    3.8,
+                    2.1
+                ],
+                "Td_c": null,
+                "Tg_c": 64.0,
+                "Tm_c": null,
+                "activity": 28000.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.21,
+                "comonomer_1_incorp": 11.7,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.54,
+                "comonomer_2_incorp": 88.3,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.54,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 0.21,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(Me4Cp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": [
+                    174,
+                    341.0
+                ],
+                "PDI": [
+                    174,
+                    1.8
+                ],
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 31400.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.54,
+                "comonomer_1_incorp": 22.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.54,
+                "comonomer_2_incorp": 78.0,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.54,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 0.54,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(Me4Cp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": [
+                    548,
+                    1190.0
+                ],
+                "PDI": [
+                    2.5,
+                    1.8
+                ],
+                "Td_c": null,
+                "Tg_c": 59.9,
+                "Tm_c": null,
+                "activity": 10500.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 1.09,
+                "comonomer_1_incorp": 30.1,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.43,
+                "comonomer_2_incorp": 69.9,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 3.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.43,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 1.09,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(Me4Cp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 360.0,
+                "PDI": 1.7,
+                "Td_c": null,
+                "Tg_c": 76.4,
+                "Tm_c": null,
+                "activity": 6810.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 1.09,
+                "comonomer_1_incorp": 34.3,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.32,
+                "comonomer_2_incorp": 65.7,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.32,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 1.09,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(Me4Cp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 862.0,
+                "PDI": 1.7,
+                "Td_c": null,
+                "Tg_c": 94.1,
+                "Tm_c": null,
+                "activity": 4780.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 2.19,
+                "comonomer_1_incorp": 40.3,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.32,
+                "comonomer_2_incorp": 59.7,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.32,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 2.19,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(Me4Cp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 390.0,
+                "PDI": 1.7,
+                "Td_c": null,
+                "Tg_c": 127.1,
+                "Tm_c": null,
+                "activity": 480.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 2.19,
+                "comonomer_1_incorp": 46.3,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.10,
+                "comonomer_2_incorp": 54.0,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 0.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.10,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 2.19,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(2,4-Me2Cp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 401.0,
+                "PDI": 1.7,
+                "Td_c": null,
+                "Tg_c": 67.2,
+                "Tm_c": null,
+                "activity": 2880.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 1.09,
+                "comonomer_1_incorp": 34.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.54,
+                "comonomer_2_incorp": 66.0,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.54,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 1.09,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(3-BuCp)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 253.0,
+                "PDI": 1.7,
+                "Td_c": null,
+                "Tg_c": 70.9,
+                "Tm_c": null,
+                "activity": 437.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 1.09,
+                "comonomer_1_incorp": 35.1,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.10,
+                "comonomer_2_incorp": 64.9,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 0.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.10,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 1.09,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(Ind)(N'Bu)]TiCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 396.0,
+                "PDI": 1.8,
+                "Td_c": null,
+                "Tg_c": 83.5,
+                "Tm_c": null,
+                "activity": 921.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "CpA (ansa-cyclopentadienylamido)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized in this work (Experimental Section)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 1.09,
+                "comonomer_1_incorp": 34.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.43,
+                "comonomer_2_incorp": 65.5,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 3.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.43,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 1.09,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "rac-[Et(Ind)2]ZrCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": 76.5,
+                "Tm_c": null,
+                "activity": 22000.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "C2-symmetric ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Purchased from Strem",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.54,
+                "comonomer_1_incorp": 34.7,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.54,
+                "comonomer_2_incorp": 65.3,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.54,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 0.54,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2C(Flu)(Cp)]ZrCl2",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 225.0,
+                "PDI": 1.7,
+                "Td_c": null,
+                "Tg_c": 76.2,
+                "Tm_c": null,
+                "activity": 2550.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "Cs-symmetric ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesized according to literature procedure (ref 45)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 1.09,
+                "comonomer_1_incorp": 34.4,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": 0.32,
+                "comonomer_2_incorp": 65.6,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.9,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "ethylene_concentration",
+                        "define": "Concentration of ethylene monomer in mol/L",
+                        "value": 0.32,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "norbornene_concentration",
+                        "define": "Concentration of norbornene monomer in mol/L",
+                        "value": 1.09,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "productivity_units",
+                        "define": "Units for productivity as reported in table",
+                        "value": "g/mmol h M",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "detection_method",
+                        "define": "Method used for GPC molecular weight determination",
+                        "value": "viscometry",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 2"
+    ],
+    "index": [
+        [
+            1,
+            11
+        ]
+    ]
+}

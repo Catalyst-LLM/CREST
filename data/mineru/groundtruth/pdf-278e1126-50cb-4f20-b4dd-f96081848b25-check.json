@@ -1,0 +1,635 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 3.5,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 12.932,
+                "PDI": 2.12,
+                "Td_c": null,
+                "Tg_c": 150.0,
+                "Tm_c": null,
+                "activity": 70.1,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 0.46,
+                "comonomer_1_incorp": 56.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 0.02,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 120.0,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 6100.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.02,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 5.6,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 18.382,
+                "PDI": 1.82,
+                "Td_c": null,
+                "Tg_c": 217.0,
+                "Tm_c": null,
+                "activity": 112.0,
+                "time_min": 120.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 0.92,
+                "comonomer_1_incorp": 71.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 0.02,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 10100.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.02,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 22.6,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 20.3,
+                "PDI": 2.03,
+                "Td_c": null,
+                "Tg_c": 210.0,
+                "Tm_c": null,
+                "activity": 151.0,
+                "time_min": 360.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 0.92,
+                "comonomer_1_incorp": 64.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 0.02,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 10000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 6.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.02,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 17.4,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 15.225,
+                "PDI": 2.03,
+                "Td_c": null,
+                "Tg_c": 150.0,
+                "Tm_c": null,
+                "activity": 349.0,
+                "time_min": 120.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 0.92,
+                "comonomer_1_incorp": 52.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 0.10,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 7500.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.10,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 27.1,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 18.7,
+                "PDI": 1.87,
+                "Td_c": null,
+                "Tg_c": 167.0,
+                "time_min": 120.0,
+                "Tm_c": null,
+                "activity": 541.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 1.15,
+                "comonomer_1_incorp": 60.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 0.10,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 10000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.10,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 39.2,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 41.7,
+                "PDI": 13.9,
+                "Td_c": null,
+                "Tg_c": "-",
+                "Tm_c": null,
+                "activity": 784.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1000,
+                "time_min": 120.0,
+                "comonomer_1_conC": 1.15,
+                "comonomer_1_incorp": 38.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 0.10,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 3000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.10,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 67.5,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 41.2,
+                "PDI": 2.00,
+                "Td_c": null,
+                "Tg_c": 38.0,
+                "Tm_c": null,
+                "activity": 1350.0,
+                "time_min": 120.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 2.77,
+                "comonomer_1_incorp": 31.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 0.40,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 20600.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.40,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 84.7,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 52.961,
+                "PDI": 2.51,
+                "Td_c": null,
+                "Tg_c": 22.0,
+                "Tm_c": null,
+                "activity": 1690.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 2.77,
+                "comonomer_1_incorp": 27.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 120.0,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 0.70,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 21100.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 0.70,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 12.7,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 24.975,
+                "PDI": 1.85,
+                "Td_c": null,
+                "Tg_c": 178.0,
+                "Tm_c": null,
+                "activity": 254.0,
+                "time_min": 120.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 4.62,
+                "comonomer_1_incorp": 57.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 4.00,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 13500.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 4.00,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpZrCl3",
+                "yield_g": 9.1,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 23.1,
+                "PDI": 2.10,
+                "Td_c": null,
+                "Tg_c": 210.0,
+                "Tm_c": null,
+                "activity": 182.0,
+                "time_min": 120.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "cyclopentadienyl",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Strem Chemicals",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 6.93,
+                "comonomer_1_incorp": 66.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "random with NB homosequences (NN dyad, NNN triad)",
+                "pressure_atm": 4.00,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol",
+                        "value": 11000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymerization_time_h",
+                        "define": "Polymerization duration in hours",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "ethylene_pressure_mpa",
+                        "define": "Ethylene pressure in MPa",
+                        "value": 4.00,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1"
+    ],
+    "index": [
+        [
+            1,
+            10
+        ]
+    ]
+}

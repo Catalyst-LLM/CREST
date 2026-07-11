@@ -1,0 +1,700 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "Ti^2L1",
+                "yield_g": 0.5799,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 55.0,
+                "PDI": 1.90,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 137.4,
+                "activity": 870,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "phenyl-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Ti^2L1",
+                "yield_g": 0.2002,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 130.4,
+                "activity": 300,
+                "time_min": 10,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "phenyl-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 90,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Ti^2L2",
+                "yield_g": 0.1517,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 80.9,
+                "PDI": 2.34,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 137.4,
+                "activity": 228,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "phenyl-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": null,
+                "time_min": 10,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Ti^2L3",
+                "yield_g": 0.2702,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 14.5,
+                "PDI": 2.78,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 130.8,
+                "activity": 405,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "methylene-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [39]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": null,
+                "time_min": 10,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "TiL4",
+                "yield_g": 0.5629,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 23.2,
+                "PDI": 2.25,
+                "Td_c": null,
+                "Tg_c": null,
+                "time_min": 10,
+                "Tm_c": 135.9,
+                "activity": 844,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "3-(tert-butyl)-5-phenyl-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 4,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Ti^2L1",
+                "yield_g": 0.8570,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 193.0,
+                "PDI": 1.70,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 87.7,
+                "time_min": 10,
+                "activity": 1290,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "phenyl-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 0.4,
+                "comonomer_1_incorp": 43.33,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "comonomer_amount_mmol",
+                        "define": "The amount of comonomer used in millimoles.",
+                        "value": 12,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Ti^2L2",
+                "yield_g": 0.0484,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 248.0,
+                "PDI": 1.45,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 94.7,
+                "activity": 73,
+                "time_min": 10,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "phenyl-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 0.4,
+                "comonomer_1_incorp": 39.58,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "comonomer_amount_mmol",
+                        "define": "The amount of comonomer used in millimoles.",
+                        "value": 12,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "TiL4",
+                "yield_g": 0.4228,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 136.0,
+                "PDI": 1.68,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 81.2,
+                "activity": 634,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "3-(tert-butyl)-5-phenyl-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 0.4,
+                "time_min": 10,
+                "comonomer_1_incorp": 38.08,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 4,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "comonomer_amount_mmol",
+                        "define": "The amount of comonomer used in millimoles.",
+                        "value": 12,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Ti^2L1",
+                "yield_g": 0.1113,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 98.8,
+                "activity": 167,
+                "time_min": 10,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "phenyl-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 0.4,
+                "comonomer_1_incorp": 4.74,
+                "comonomer_1_name": "1,5-hexadiene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "comonomer_amount_mmol",
+                        "define": "The amount of comonomer used in millimoles.",
+                        "value": 12,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Ti^2L2",
+                "yield_g": 0.0105,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 106.7,
+                "activity": 16,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "phenyl-bridged bis-salicylaldiminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1500,
+                "time_min": 10,
+                "comonomer_1_conC": 0.4,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "1,5-hexadiene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "The solvent used in the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "The duration of the polymerization reaction in minutes.",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "The amount of catalyst used in micromoles.",
+                        "value": 2,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "comonomer_amount_mmol",
+                        "define": "The amount of comonomer used in millimoles.",
+                        "value": 12,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "activity_unit",
+                        "define": "The unit of catalytic activity as reported in the paper.",
+                        "value": "g / mol(Ti) * h * atm",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1",
+        "Table 1",
+        "Table 1",
+        "Table 1",
+        "Table 1",
+        "Table 2"
+    ],
+    "index": [
+        [
+            2,
+            2
+        ],
+        [
+            4,
+            4
+        ],
+        [
+            6,
+            6
+        ],
+        [
+            10,
+            10
+        ],
+        [
+            14,
+            14
+        ],
+        [
+            1,
+            5
+        ]
+    ]
+}

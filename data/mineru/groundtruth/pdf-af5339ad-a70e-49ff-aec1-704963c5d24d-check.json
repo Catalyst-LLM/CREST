@@ -1,0 +1,422 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "Ti²Lₐ",
+                "yield_g": 1.3526,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 30.3,
+                "PDI": 2.04,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "time_min": 5,
+                "activity": 4060,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "methylene-bridged salicylaldiminato tridentate [ONS]",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [69]",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 0.333,
+                "comonomer_1_incorp": 25.4,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NN dyad and NNN triad sequences present",
+                "pressure_atm": 1,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 55,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "NB_conversion",
+                        "define": "Conversion of norbornene monomer to polymer (%)",
+                        "value": 76.7,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE",
+                        "define": "Monomer reactivity ratio for ethylene",
+                        "value": 14.62,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rN",
+                        "define": "Monomer reactivity ratio for norbornene",
+                        "value": 0.08,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization reaction",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of the polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_feed_mmol",
+                        "define": "Amount of norbornene fed in millimoles",
+                        "value": 10,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Ti²Lₐ",
+                "yield_g": 1.4895,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 86.3,
+                "PDI": 1.79,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 4470,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "methylene-bridged salicylaldiminato tridentate [ONS]",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [69]",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 0.667,
+                "comonomer_1_incorp": 33.9,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NN dyad and NNN triad sequences present",
+                "pressure_atm": 1,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 55,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "NB_conversion",
+                        "define": "Conversion of norbornene monomer to polymer (%)",
+                        "value": 50.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE",
+                        "define": "Monomer reactivity ratio for ethylene",
+                        "value": 14.62,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rN",
+                        "define": "Monomer reactivity ratio for norbornene",
+                        "value": 0.08,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization reaction",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of the polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_feed_mmol",
+                        "define": "Amount of norbornene fed in millimoles",
+                        "value": 20,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Ti²Lₐ",
+                "yield_g": 0.6376,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 104.8,
+                "PDI": 2.67,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1910,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "methylene-bridged salicylaldiminato tridentate [ONS]",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [69]",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 42.8,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "time_min": 5,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NN dyad and NNN triad sequences present",
+                "pressure_atm": 1,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 55,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "NB_conversion",
+                        "define": "Conversion of norbornene monomer to polymer (%)",
+                        "value": 16.2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE",
+                        "define": "Monomer reactivity ratio for ethylene",
+                        "value": 14.62,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rN",
+                        "define": "Monomer reactivity ratio for norbornene",
+                        "value": 0.08,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization reaction",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of the polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_feed_mmol",
+                        "define": "Amount of norbornene fed in millimoles",
+                        "value": 30,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Ti²Lₐ",
+                "yield_g": 0.2795,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 840,
+                "time_min": 5,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "methylene-bridged salicylaldiminato tridentate [ONS]",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [69]",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 1.333,
+                "comonomer_1_incorp": 49.9,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NN dyad and NNN triad sequences present",
+                "pressure_atm": 1,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 55,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "NB_conversion",
+                        "define": "Conversion of norbornene monomer to polymer (%)",
+                        "value": 5.7,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE",
+                        "define": "Monomer reactivity ratio for ethylene",
+                        "value": 14.62,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rN",
+                        "define": "Monomer reactivity ratio for norbornene",
+                        "value": 0.08,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization reaction",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of the polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_feed_mmol",
+                        "define": "Amount of norbornene fed in millimoles",
+                        "value": 40,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "TiLb",
+                "yield_g": 1.2086,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 16.4,
+                "PDI": 2.14,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 106.1,
+                "activity": 3630,
+                "time_min": 5,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "salicylaldiminato tridentate [ONS]",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [32-34]",
+                "cocatalyst": "MMAO",
+                "cocatalyst_ratio": 1500,
+                "comonomer_1_conC": 0.333,
+                "comonomer_1_incorp": 20.9,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NN dyad and NNN triad sequences present",
+                "pressure_atm": 1,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 55,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "NB_conversion",
+                        "define": "Conversion of norbornene monomer to polymer (%)",
+                        "value": 60.4,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE",
+                        "define": "Monomer reactivity ratio for ethylene",
+                        "value": 12.89,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rN",
+                        "define": "Monomer reactivity ratio for norbornene",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization reaction",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of the polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 4,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "NB_feed_mmol",
+                        "define": "Amount of norbornene fed in millimoles",
+                        "value": 10,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1",
+        "Table 1"
+    ],
+    "index": [
+        [
+            3,
+            6
+        ],
+        [
+            10,
+            10
+        ]
+    ]
+}

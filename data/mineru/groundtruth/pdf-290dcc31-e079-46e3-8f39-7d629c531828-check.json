@@ -1,0 +1,550 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "[C2H4(Ind)2]ZrCl2",
+                "2d_structure": null,
+                "3d_structure": null,
+                "catalyst_ligand_type": "C2-symmetric zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 28.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 9080.0,
+                "Mw_kgmol": 220.0,
+                "pressure_atm": 1.97,
+                "additional_items": [
+                    {
+                        "item_name": "rE",
+                        "define": "Copolymerization reactivity ratio for ethylene",
+                        "value": "3.6",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE_rN",
+                        "define": "Product of copolymerization reactivity ratios for ethylene and norbornene",
+                        "value": "0.9",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(Flu)(Cp)]ZrCl2",
+                "2d_structure": null,
+                "3d_structure": null,
+                "pressure_atm": 1.97,
+                "catalyst_ligand_type": "C1-symmetric ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 32.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 25000.0,
+                "Mw_kgmol": 1010.0,
+                "additional_items": [
+                    {
+                        "item_name": "rE",
+                        "define": "Copolymerization reactivity ratio for ethylene",
+                        "value": "4.4",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE_rN",
+                        "define": "Product of copolymerization reactivity ratios for ethylene and norbornene",
+                        "value": "0.1",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2C(Flu)(t-BuCp)]ZrCl2",
+                "2d_structure": null,
+                "3d_structure": null,
+                "pressure_atm": 1.97,
+                "catalyst_ligand_type": "C1-symmetric ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 30.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 430.0,
+                "Mw_kgmol": 80.0,
+                "additional_items": [
+                    {
+                        "item_name": "rE",
+                        "define": "Copolymerization reactivity ratio for ethylene",
+                        "value": "6.0",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE_rN",
+                        "define": "Product of copolymerization reactivity ratios for ethylene and norbornene",
+                        "value": "0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(t-BuCp)(N-t-Bu)]TiCl2",
+                "2d_structure": null,
+                "3d_structure": null,
+                "pressure_atm": 1.97,
+                "catalyst_ligand_type": "Constrained geometry catalyst (CGC)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 19.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 1500.0,
+                "Mw_kgmol": 270.0,
+                "additional_items": [
+                    {
+                        "item_name": "rE",
+                        "define": "Copolymerization reactivity ratio for ethylene",
+                        "value": "15.1",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "rE_rN",
+                        "define": "Product of copolymerization reactivity ratios for ethylene and norbornene",
+                        "value": ">0.1",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-trimethyl tetrahydrotrimethyl-pentalenyl]zirconiumdichloride (I)",
+                "2d_structure": "",
+                "pressure_atm": 1.97,
+                "3d_structure": "Figure 1 (left)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 0.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 30,
+                "activity": 2700.0,
+                "Mw_kgmol": 520.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "490.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-trimethyl tetrahydrotrimethyl-pentalenyl]zirconiumdichloride (I)",
+                "2d_structure": "",
+                "pressure_atm": 1.97,
+                "3d_structure": "Figure 1 (left)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 7.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 3700.0,
+                "Mw_kgmol": 400.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.19",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "360.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-trimethyl tetrahydrotrimethyl-pentalenyl]zirconiumdichloride (I)",
+                "2d_structure": "",
+                "3d_structure": "Figure 1 (left)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "pressure_atm": 1.97,
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 16.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 3800.0,
+                "Mw_kgmol": 340.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.39",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "230.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-trimethyl tetrahydrotrimethyl-pentalenyl]zirconiumdichloride (I)",
+                "2d_structure": "",
+                "3d_structure": "Figure 1 (left)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "pressure_atm": 1.97,
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 23.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 3500.0,
+                "Mw_kgmol": 330.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.59",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "160.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-trimethyl tetrahydrotrimethyl-pentalenyl]zirconiumdichloride (I)",
+                "2d_structure": "",
+                "3d_structure": "Figure 1 (left)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "pressure_atm": 1.97,
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 34.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 3000.0,
+                "Mw_kgmol": 390.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.80",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "190.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-trimethyl tetrahydrotrimethyl-pentalenyl]zirconiumdichloride (I)",
+                "2d_structure": "",
+                "3d_structure": "Figure 1 (left)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "pressure_atm": 1.97,
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 42.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 600.0,
+                "Mw_kgmol": 370.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.90",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "120.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-5-phenyl-tetrahydro-pentalenyl]-zirconiumdichloride (II)",
+                "2d_structure": null,
+                "3d_structure": "Figure 1 (right)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "pressure_atm": 1.97,
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 0.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 30,
+                "activity": 3700.0,
+                "Mw_kgmol": 660.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "630.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-5-phenyl-tetrahydro-pentalenyl]-zirconiumdichloride (II)",
+                "2d_structure": null,
+                "3d_structure": "Figure 1 (right)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "pressure_atm": 1.97,
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 5.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 5780.0,
+                "Mw_kgmol": null,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.20",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "660.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-5-phenyl-tetrahydro-pentalenyl]-zirconiumdichloride (II)",
+                "2d_structure": null,
+                "3d_structure": "Figure 1 (right)",
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "pressure_atm": 1.97,
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 9.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 7600.0,
+                "Mw_kgmol": 670.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.40",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "540.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-5-phenyl-tetrahydro-pentalenyl]-zirconiumdichloride (II)",
+                "2d_structure": null,
+                "3d_structure": null,
+                "pressure_atm": 1.97,
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 18.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 6700.0,
+                "Mw_kgmol": 690.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.59",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "470.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-5-phenyl-tetrahydro-pentalenyl]-zirconiumdichloride (II)",
+                "2d_structure": null,
+                "3d_structure": null,
+                "pressure_atm": 1.97,
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 29.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 2500.0,
+                "Mw_kgmol": 830.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.80",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "280.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[1-(Fluorenyl)-1,3,3-5-phenyl-tetrahydro-pentalenyl]-zirconiumdichloride (II)",
+                "2d_structure": null,
+                "3d_structure": null,
+                "catalyst_ligand_type": "Pentalene-bridged ansa-zirconocene",
+                "catalyst_metal": "Zr",
+                "pressure_atm": 1.97,
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_1_incorp": 36.0,
+                "comonomer_2_name": "ethylene",
+                "reaction_type": "Copolymerization",
+                "temperature_c": 30,
+                "activity": 100.0,
+                "Mw_kgmol": 830.0,
+                "additional_items": [
+                    {
+                        "item_name": "xN_feed",
+                        "define": "Molar fraction of norbornene in the feed",
+                        "value": "0.90",
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Mv_kgmol",
+                        "define": "Viscosity-average molecular weight in kg/mol",
+                        "value": "300.0",
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1",
+        "Table 2"
+    ],
+    "index": [
+        [
+            1,
+            4
+        ],
+        [
+            1,
+            12
+        ]
+    ]
+}

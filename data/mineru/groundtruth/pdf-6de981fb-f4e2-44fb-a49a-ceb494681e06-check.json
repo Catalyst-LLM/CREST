@@ -1,0 +1,909 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "2a",
+                "yield_g": 0.25,
+                "2d_structure": null,
+                "3d_structure": "Image I",
+                "Mw_kgmol": 167.0,
+                "PDI": 2.4,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 6.00,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2b",
+                "yield_g": 0.56,
+                "2d_structure": null,
+                "3d_structure": "Image II",
+                "Mw_kgmol": 52.1,
+                "PDI": 2.6,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 13.44,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.51,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 650.0,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 12.24,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "molecular_weight_measurement_method",
+                        "define": "Method used to determine molecular weight",
+                        "value": "viscosity in decalin at 135°C",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.14,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 305.0,
+                "PDI": 2.7,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 8.40,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.45,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 323.0,
+                "PDI": 3.0,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 27.00,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 2.27,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 608.0,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 22.70,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "molecular_weight_measurement_method",
+                        "define": "Method used to determine molecular weight",
+                        "value": "viscosity in decalin at 135°C",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.52,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 460.0,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 31.20,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 6.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "molecular_weight_measurement_method",
+                        "define": "Method used to determine molecular weight",
+                        "value": "viscosity in decalin at 135°C",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.02,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 0.48,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 500,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.26,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 110.0,
+                "PDI": 2.7,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 6.24,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.78,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 104.0,
+                "PDI": 3.0,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 18.72,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.80,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 99.1,
+                "PDI": 3.0,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 19.20,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 6000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 0.48,
+                "2d_structure": null,
+                "3d_structure": "Image III",
+                "Mw_kgmol": 92.2,
+                "PDI": 2.9,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 11.52,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "tetradentate amine trihydroxy ligand",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Ref [16(c)]",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 70,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time",
+                        "define": "Duration of polymerization in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1"
+    ],
+    "index": [
+        [
+            1,
+            12
+        ]
+    ]
+}

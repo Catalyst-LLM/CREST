@@ -1,0 +1,175 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "[2-(PhNCH)C4H3N]2TiCl2",
+                "yield_g": 0.096,
+                "2d_structure": "Scheme 1 (complex 1)",
+                "3d_structure": "Not provided",
+                "Mw_kgmol": 139.7,
+                "PDI": 1.10,
+                "Td_c": null,
+                "Tg_c": 130.0,
+                "Tm_c": null,
+                "activity": 576.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "pyrrolide-imine",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 12 (Yoshida et al., Chem. Lett., 2000, 1270; Organometallics, 2001, 20, 4793)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 48.6,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "Alternating part (-NB-ethylene-NB-ethylene-NB-): 91%; Isolated part (-ethylene-NB-(ethylene)n-; n≥2): 9%",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 127,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "gas_flow_rate",
+                        "define": "Gas flow rate (C2H4/N2) in L/h",
+                        "value": "50/0",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "charged_NB_g",
+                        "define": "Mass of norbornene charged in grams",
+                        "value": 10,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "alternating_sequence_stereochemistry",
+                        "define": "Stereochemistry of alternating -NB-ethylene-NB- sequences (meso/racemic ratio)",
+                        "value": "54.9/45.1",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Polymerization solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[2-(CyNCH)C4H3N]2TiCl2",
+                "yield_g": 0.455,
+                "2d_structure": "Scheme 1 (complex 2)",
+                "3d_structure": "Not provided",
+                "Mw_kgmol": 604.36,
+                "PDI": 1.16,
+                "Td_c": null,
+                "Tg_c": 120.0,
+                "Tm_c": null,
+                "activity": 2730.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "pyrrolide-imine",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 12 (Yoshida et al., Chem. Lett., 2000, 1270; Organometallics, 2001, 20, 4793)",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 44.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "Alternating part: 91%; Isolated part: 9%",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 521,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "gas_flow_rate",
+                        "define": "Gas flow rate (C2H4/N2) in L/h",
+                        "value": "50/0",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "charged_NB_g",
+                        "define": "Mass of norbornene charged in grams",
+                        "value": 10,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "alternating_sequence_stereochemistry",
+                        "define": "Stereochemistry of alternating -NB-ethylene-NB- sequences (meso/racemic ratio)",
+                        "value": "53.8/46.2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Polymerization solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1"
+    ],
+    "index": [
+        [
+            1,
+            2
+        ]
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "Hf-1",
+                "yield_g": 2.41,
+                "Mw_kgmol": 145.0,
+                "PDI": 2.1,
+                "Tm_c": 132.2,
+                "activity": 14500,
+                "catalyst_ligand_type": "bidentate pyridyl-amido",
+                "catalyst_metal": "Hf",
+                "catalyst_reference": "Ref [38]",
+                "cocatalyst": "[PhNH(CH3)2][B(C6F5)4]",
+                "catalyst_metal_oxidation_state": 4,
+                "cocatalyst_ratio": 1.5,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "pressure_atm": 8.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 150,
+                "time_min": 10.0,
+                "additional_items": [
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities, e.g., triisobutylaluminum (iBu3Al)",
+                        "value": "iBu3Al",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_equiv",
+                        "define": "Molar equivalents of scavenger relative to catalyst",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "heptane",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Hf-2",
+                "yield_g": 1.92,
+                "Mw_kgmol": 79.0,
+                "PDI": 2.6,
+                "Tm_c": 132.3,
+                "activity": 11500,
+                "catalyst_ligand_type": "bidentate pyridyl-amido",
+                "catalyst_metal": "Hf",
+                "catalyst_reference": "Scheme 2",
+                "catalyst_metal_oxidation_state": 4,
+                "cocatalyst": "[PhNH(CH3)2][B(C6F5)4]",
+                "cocatalyst_ratio": 1.5,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "pressure_atm": 8.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 150,
+                "time_min": 10.0,
+                "additional_items": [
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities, e.g., triisobutylaluminum (iBu3Al)",
+                        "value": "iBu3Al",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_equiv",
+                        "define": "Molar equivalents of scavenger relative to catalyst",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "heptane",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Hf-3",
+                "yield_g": 2.72,
+                "Mw_kgmol": 201.0,
+                "PDI": 1.4,
+                "Tm_c": 133.2,
+                "activity": 16300,
+                "catalyst_ligand_type": "bidentate pyridyl-amido",
+                "catalyst_metal": "Hf",
+                "catalyst_reference": "Scheme 2",
+                "cocatalyst": "[PhNH(CH3)2][B(C6F5)4]",
+                "cocatalyst_ratio": 1.5,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "catalyst_metal_oxidation_state": 4,
+                "pressure_atm": 8.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 150,
+                "time_min": 10.0,
+                "additional_items": [
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities, e.g., triisobutylaluminum (iBu3Al)",
+                        "value": "iBu3Al",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_equiv",
+                        "define": "Molar equivalents of scavenger relative to catalyst",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "heptane",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Hf-4",
+                "yield_g": 2.2,
+                "Mw_kgmol": 236.0,
+                "PDI": 1.9,
+                "Tm_c": 132.0,
+                "activity": 13200,
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_ligand_type": "bidentate pyridyl-amido",
+                "catalyst_metal": "Hf",
+                "catalyst_reference": "Scheme 2",
+                "cocatalyst": "[PhNH(CH3)2][B(C6F5)4]",
+                "cocatalyst_ratio": 1.5,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "pressure_atm": 8.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 150,
+                "time_min": 10.0,
+                "additional_items": [
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities, e.g., triisobutylaluminum (iBu3Al)",
+                        "value": "iBu3Al",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_equiv",
+                        "define": "Molar equivalents of scavenger relative to catalyst",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "heptane",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Hf-5",
+                "yield_g": 1.99,
+                "Mw_kgmol": 151.0,
+                "PDI": 1.9,
+                "Tm_c": 132.2,
+                "activity": 11900,
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_ligand_type": "bidentate pyridyl-amido",
+                "catalyst_metal": "Hf",
+                "catalyst_reference": "Scheme 2",
+                "cocatalyst": "[PhNH(CH3)2][B(C6F5)4]",
+                "cocatalyst_ratio": 1.5,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "pressure_atm": 8.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 150,
+                "time_min": 10.0,
+                "additional_items": [
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities, e.g., triisobutylaluminum (iBu3Al)",
+                        "value": "iBu3Al",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_equiv",
+                        "define": "Molar equivalents of scavenger relative to catalyst",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "heptane",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Hf-6",
+                "yield_g": 1.74,
+                "Mw_kgmol": 245.0,
+                "PDI": 1.9,
+                "Tm_c": 131.8,
+                "activity": 10400,
+                "catalyst_ligand_type": "bidentate pyridyl-amido",
+                "catalyst_metal": "Hf",
+                "catalyst_reference": "Scheme 2",
+                "catalyst_metal_oxidation_state": 4,
+                "cocatalyst": "[PhNH(CH3)2][B(C6F5)4]",
+                "cocatalyst_ratio": 1.5,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "pressure_atm": 8.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 150,
+                "time_min": 10.0,
+                "additional_items": [
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities, e.g., triisobutylaluminum (iBu3Al)",
+                        "value": "iBu3Al",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_equiv",
+                        "define": "Molar equivalents of scavenger relative to catalyst",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "heptane",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1"
+    ],
+    "index": [
+        [
+            1,
+            6
+        ]
+    ]
+}

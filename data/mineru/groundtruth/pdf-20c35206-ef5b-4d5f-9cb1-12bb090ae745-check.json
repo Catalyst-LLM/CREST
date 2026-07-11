@@ -1,0 +1,888 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.121,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.44,
+                "Td_c": null,
+                "Tg_c": 76.4,
+                "Tm_c": null,
+                "activity": 7260.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 5000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 27.2,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 6.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 1650.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.107,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.94,
+                "Td_c": null,
+                "Tg_c": 116.2,
+                "Tm_c": null,
+                "activity": 6410.0,
+                "time_min": 10,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 5000,
+                "comonomer_1_conC": 2.0,
+                "comonomer_1_incorp": 34.4,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 6.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 1110.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.206,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.53,
+                "Td_c": null,
+                "Tg_c": 90.6,
+                "Tm_c": null,
+                "activity": 6180.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 2500,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 31.4,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "time_min": 10,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 1080.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.192,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.35,
+                "Td_c": null,
+                "Tg_c": 109.8,
+                "Tm_c": null,
+                "activity": 5780.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "time_min": 10,
+                "cocatalyst_ratio": 2500,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 36.9,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 80,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 800.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.174,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.91,
+                "Td_c": null,
+                "Tg_c": 217.7,
+                "time_min": 10,
+                "Tm_c": null,
+                "activity": 2610.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": 2.0,
+                "comonomer_1_incorp": 53.2,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 80,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 62.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.115,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.46,
+                "Td_c": null,
+                "Tg_c": null,
+                "time_min": 10,
+                "Tm_c": null,
+                "activity": 345.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 500,
+                "comonomer_1_conC": 0.5,
+                "comonomer_1_incorp": 100.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": null,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 15.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "tBuC5H4TiCl2[1,3-tBu2(CHN)2C=N] (2a)",
+                "yield_g": 0.097,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.27,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 583.0,
+                "time_min": 10,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 500,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 24.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 132.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-(2,6-iPr2C6H3)2(CHN)2C=N] (1b)",
+                "yield_g": 0.046,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 7.22,
+                "Td_c": null,
+                "Tg_c": null,
+                "time_min": 10,
+                "Tm_c": null,
+                "activity": 559.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 1410.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.102,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.18,
+                "Td_c": null,
+                "Tg_c": 207.2,
+                "Tm_c": null,
+                "activity": 1530.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 1250,
+                "comonomer_1_conC": 3.0,
+                "comonomer_1_incorp": 53.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 216.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.304,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.85,
+                "Td_c": null,
+                "Tg_c": 230.4,
+                "Tm_c": null,
+                "activity": 1820.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 500,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 55.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 138.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.311,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.81,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1870.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 128.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.337,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.75,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 2020.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 113.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.239,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.85,
+                "Td_c": null,
+                "Tg_c": 257.6,
+                "Tm_c": null,
+                "activity": 1430.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": 10.0,
+                "comonomer_1_incorp": 66.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 105.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[1,3-tBu2(CHN)2C=N] (1a)",
+                "yield_g": 0.362,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.83,
+                "Td_c": null,
+                "Tg_c": 246.5,
+                "Tm_c": null,
+                "activity": 2170.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "imidazolin-2-iminato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref. 16(a,b)",
+                "cocatalyst": "MAO (dried)",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 10.0,
+                "comonomer_1_incorp": 60.8,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads and triads) in addition to alternating, isolated NBE sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 110.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene + minimum CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_mL",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "ignore": [
+        true,
+        true
+    ],
+    "data_id": [
+        "TABLE 1",
+        "TABLE 2"
+    ],
+    "index": [
+        [
+            1,
+            8
+        ],
+        [
+            1,
+            6
+        ]
+    ]
+}

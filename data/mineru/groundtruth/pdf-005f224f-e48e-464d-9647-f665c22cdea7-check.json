@@ -1,0 +1,948 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "VVO(OiPr)[ONNO] (1)",
+                "yield_g": 0.227,
+                "Mw_kgmol": 118.0,
+                "PDI": 2.65,
+                "Tm_c": 134.0,
+                "activity": 272.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [15]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 5,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 44000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VVO(N3)[ONNO] (2)",
+                "yield_g": 0.055,
+                "Mw_kgmol": 146.0,
+                "PDI": 4.60,
+                "Tm_c": 138.7,
+                "activity": 22.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [15]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 15,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 15,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 32000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VVO(Cl)[ONNO] (3)",
+                "yield_g": 0.042,
+                "Mw_kgmol": 716.0,
+                "PDI": 3.76,
+                "Tm_c": 136.4,
+                "activity": 17.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [15]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 15,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "CH2Cl2",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 15,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 190000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIV(OiPr)2[ONNO] (4)",
+                "yield_g": 0.237,
+                "Mw_kgmol": 677.0,
+                "PDI": 2.00,
+                "Tm_c": 138.7,
+                "activity": 474.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [16]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 3,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 3,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 338000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIV(Cl)2[ONNO] (5)",
+                "yield_g": 0.156,
+                "Mw_kgmol": 889.0,
+                "PDI": 2.03,
+                "Tm_c": 139.0,
+                "activity": 62.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [16]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 15,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 15,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 438000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "VIII(acac)[ONNO] (6)",
+                "yield_g": 0.218,
+                "Mw_kgmol": 673.0,
+                "PDI": 3.33,
+                "Tm_c": 133.4,
+                "activity": 436.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "This work",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 3,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 3,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 202000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIII(acac)[ONNO] (6)",
+                "yield_g": 0.268,
+                "Mw_kgmol": 1003.0,
+                "PDI": 2.63,
+                "Tm_c": 128.5,
+                "activity": 322.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "This work",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 5,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "pentane",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 381000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIII(Cl)(THF)[ONNO] (7)",
+                "yield_g": 0.129,
+                "Mw_kgmol": 458.0,
+                "PDI": 2.24,
+                "Tm_c": 135.2,
+                "activity": 52.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "This work",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 15,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 15,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 204000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "VII(tmeda)[ONNO] (8)",
+                "yield_g": 0.004,
+                "Mw_kgmol": 2259.0,
+                "PDI": 3.03,
+                "Tm_c": null,
+                "activity": 1.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 2,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "This work",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_conC": null,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 15,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 15,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 745000.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "VVO(OiPr)[ONNO] (1)",
+                "yield_g": 0.354,
+                "Mw_kgmol": 32.0,
+                "PDI": 4.26,
+                "Tm_c": [
+                    73.5,
+                    83.6,
+                    92.7,
+                    96.8,
+                    104.2,
+                    120.7
+                ],
+                "activity": 78.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [15]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": "1-hexene",
+                "comonomer_1_incorp": 4.0,
+                "comonomer_1_conC": 0.8,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 7600.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Tm_multiple",
+                        "define": "Multiple melting temperatures observed by DSC.",
+                        "value": "73.5, 83.6, 92.7, 96.8, 104.2, 120.7",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIV(OiPr)2[ONNO] (4)",
+                "yield_g": 0.060,
+                "Mw_kgmol": 73.0,
+                "PDI": 3.53,
+                "Tm_c": [
+                    62.5,
+                    72.1,
+                    81.1,
+                    91.6,
+                    102.2,
+                    111.2
+                ],
+                "activity": 12.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [16]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": "1-hexene",
+                "comonomer_1_incorp": 3.5,
+                "comonomer_1_conC": 0.8,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 21000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Tm_multiple",
+                        "define": "Multiple melting temperatures observed by DSC.",
+                        "value": "62.5, 72.1, 81.1, 91.6, 102.2, 111.2",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIV(Cl)2[ONNO] (5)",
+                "yield_g": 0.192,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Tm_c": [
+                    63.0,
+                    72.6,
+                    82.8,
+                    92.5,
+                    96.1,
+                    105.6,
+                    117.9
+                ],
+                "activity": 38.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "Ref [16]",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": "1-hexene",
+                "comonomer_1_incorp": 4.2,
+                "comonomer_1_conC": 0.8,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Tm_multiple",
+                        "define": "Multiple melting temperatures observed by DSC.",
+                        "value": "63.0, 72.6, 82.8, 92.5, 96.1, 105.6, 117.9",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIII(acac)[ONNO] (6)",
+                "yield_g": 0.600,
+                "Mw_kgmol": 71.0,
+                "PDI": 1.70,
+                "Tm_c": [
+                    63.5,
+                    73.0,
+                    83.0,
+                    93.1,
+                    107.3
+                ],
+                "activity": 120.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "This work",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": "1-hexene",
+                "comonomer_1_incorp": 7.4,
+                "comonomer_1_conC": 0.8,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 41000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Tm_multiple",
+                        "define": "Multiple melting temperatures observed by DSC.",
+                        "value": "63.5, 73.0, 83.0, 93.1, 107.3",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIII(acac)[ONNO] (6)",
+                "yield_g": 0.702,
+                "Mw_kgmol": 149.0,
+                "PDI": 2.07,
+                "Tm_c": [
+                    63.3,
+                    72.9,
+                    82.4,
+                    92.6,
+                    103.0,
+                    109.6
+                ],
+                "activity": 140.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "This work",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": "1-hexene",
+                "comonomer_1_incorp": 3.6,
+                "comonomer_1_conC": 0.8,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 72000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Tm_multiple",
+                        "define": "Multiple melting temperatures observed by DSC.",
+                        "value": "63.3, 72.9, 82.4, 92.6, 103.0, 109.6",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "VIII(acac)[ONNO] (6)",
+                "yield_g": 0.303,
+                "Mw_kgmol": 33.0,
+                "PDI": 1.90,
+                "Tm_c": [
+                    62.3,
+                    72.2,
+                    81.9,
+                    91.3,
+                    102.5,
+                    107.1
+                ],
+                "activity": 61.0,
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_ligand_type": "[ONNO]-type amine bis(phenolate)",
+                "catalyst_reference": "This work",
+                "cocatalyst": "EtAlCl2",
+                "cocatalyst_ratio": 10,
+                "comonomer_1_name": "1-hexene",
+                "comonomer_1_incorp": 10.6,
+                "comonomer_1_conC": 0.8,
+                "comonomer_2_name": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_conC": null,
+                "comonomer_3_name": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_conC": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "temperature_c": 20,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "selectivity": null,
+                "elastic_modulus_mpa": null,
+                "tensile_strength_mpa": null,
+                "catalyst_ccdc_number": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for the polymerization reaction.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "time_min",
+                        "define": "Polymerization time in minutes.",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "Mn_gmol",
+                        "define": "Number-average molecular weight in g/mol.",
+                        "value": 17000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "Tm_multiple",
+                        "define": "Multiple melting temperatures observed by DSC.",
+                        "value": "63.3, 72.92, 81.9, 91.3, 102.5, 107.1",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 2",
+        "Table 2",
+        "Table 2",
+        "Table 3"
+    ],
+    "index": [
+        [
+            1,
+            5
+        ],
+        [
+            8,
+            10
+        ],
+        [
+            12,
+            12
+        ],
+        [
+            1,
+            6
+        ]
+    ]
+}

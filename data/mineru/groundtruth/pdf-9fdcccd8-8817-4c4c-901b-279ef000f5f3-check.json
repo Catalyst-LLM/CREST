@@ -1,0 +1,361 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "titanium (IV) complex bearing two β-dienaminoketonato ligands (catalyst 12)",
+                "yield_g": 1.78,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 307.0,
+                "PDI": 1.18,
+                "Td_c": null,
+                "Tg_c": 137.9,
+                "Tm_c": null,
+                "activity": 35600,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "β-dienaminoketonato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [48,49]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 46.8,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternate E/NBE structures",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total volume of the reaction solution in milliliters",
+                        "value": 120,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "NBE_E_feed_ratio",
+                        "define": "Molar feed ratio of norbornene to ethylene",
+                        "value": 9,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "titanium (IV) complex bearing two β-dienaminoketonato ligands (catalyst 12)",
+                "yield_g": 2.98,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 626.0,
+                "PDI": 1.29,
+                "Td_c": null,
+                "Tg_c": 138.2,
+                "Tm_c": null,
+                "activity": 2980,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "β-dienaminoketonato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [48,49]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 46.4,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternate E/NBE structures",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total volume of the reaction solution in milliliters",
+                        "value": 120,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "NBE_E_feed_ratio",
+                        "define": "Molar feed ratio of norbornene to ethylene",
+                        "value": 10,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "titanium (IV) complex bearing two β-dienaminoketonato ligands (catalyst 12)",
+                "yield_g": 4.97,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1093.0,
+                "PDI": 1.35,
+                "Td_c": null,
+                "Tg_c": 139.2,
+                "Tm_c": null,
+                "activity": 2470,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "β-dienaminoketonato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [48,49]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 46.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternate E/NBE structures",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 20,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 20,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total volume of the reaction solution in milliliters",
+                        "value": 120,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "NBE_E_feed_ratio",
+                        "define": "Molar feed ratio of norbornene to ethylene",
+                        "value": 11,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "titanium (IV) complex bearing two β-dienaminoketonato ligands (catalyst 12)",
+                "yield_g": 6.24,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1616.0,
+                "PDI": 1.4,
+                "Td_c": null,
+                "Tg_c": 142.0,
+                "Tm_c": null,
+                "activity": 2080,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "β-dienaminoketonato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [48,49]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 47.2,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternate E/NBE structures",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total volume of the reaction solution in milliliters",
+                        "value": 120,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "NBE_E_feed_ratio",
+                        "define": "Molar feed ratio of norbornene to ethylene",
+                        "value": 12,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "titanium (IV) complex bearing two β-dienaminoketonato ligands (catalyst 12)",
+                "yield_g": 8.24,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 2046.0,
+                "PDI": 1.66,
+                "Td_c": null,
+                "Tg_c": 150.0,
+                "Tm_c": null,
+                "activity": 1370,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "β-dienaminoketonato",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [48,49]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 1000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 50.2,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternate E/NBE structures",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 60,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 60,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total volume of the reaction solution in milliliters",
+                        "value": 120,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "NBE_E_feed_ratio",
+                        "define": "Molar feed ratio of norbornene to ethylene",
+                        "value": 16,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Commercial COC Topas 6013 (control)",
+                "yield_g": null,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 142.0,
+                "PDI": 2.12,
+                "Td_c": null,
+                "Tg_c": 137.6,
+                "Tm_c": null,
+                "activity": null,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": null,
+                "catalyst_metal": null,
+                "catalyst_metal_oxidation_state": null,
+                "catalyst_reference": null,
+                "cocatalyst": null,
+                "cocatalyst_ratio": null,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": 47.3,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": "ethylene",
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternate E/NBE structures",
+                "pressure_atm": null,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": null,
+                "tensile_strength_mpa": null,
+                "additional_items": []
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1"
+    ],
+    "index": [
+        [
+            1,
+            6
+        ]
+    ]
+}

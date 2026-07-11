@@ -1,0 +1,847 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "[PhN=C(CF3)CHC(Ph)O]VCl2(THF)2",
+                "yield_g": 0.91,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 237.0,
+                "PDI": 2.48,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 21800,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4a",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 5,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CF3)CHC(Ph)O]VCl2(THF)2",
+                "yield_g": 1.14,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 177.0,
+                "PDI": 2.56,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 27400,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4a",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 5,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CF3)CHC(t-Bu)O]VCl2(THF)2",
+                "yield_g": 1.16,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 256.0,
+                "PDI": 2.96,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 27800,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4b",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 5,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CF3)CHC(t-Bu)O]VCl2(THF)2",
+                "yield_g": 1.21,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 186.0,
+                "PDI": 3.01,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 29000,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4b",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 5,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CH3)CHC(CF3)O]VCl2(THF)2",
+                "yield_g": 0.73,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 311.0,
+                "PDI": 2.81,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 17500,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4c",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CH3)CHC(CF3)O]VCl2(THF)2",
+                "yield_g": 0.91,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 259.0,
+                "PDI": 2.87,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 21800,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4c",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CH3)CHC(Ph)O]VCl2(THF)2",
+                "yield_g": 0.95,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 255.0,
+                "PDI": 2.85,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 22800,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4d",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 5,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CH3)CHC(Ph)O]VCl2(THF)2",
+                "yield_g": 1.0,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 173.0,
+                "PDI": 2.92,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 24000,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4d",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 5,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=CHCHC(Ph)O]VCl2(THF)2",
+                "yield_g": 0.7,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 332.0,
+                "PDI": 2.79,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 16800,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4e",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=CHCHC(Ph)O]VCl2(THF)2",
+                "yield_g": 0.78,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 271.0,
+                "PDI": 2.94,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 18700,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4e",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CF3)CHC(Ph)O]VCl2(THF)2",
+                "yield_g": "trace"
+            },
+            {
+                "catalyst_name": "[PhN=C(CF3)CHC(Ph)O]VCl2(THF)2",
+                "yield_g": 0.88,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 214.0,
+                "PDI": 2.53,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 10600,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4a",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 3000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "precatalyst_amount_umol",
+                        "define": "Amount of precatalyst used in micromoles",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[PhN=C(CF3)CHC(Ph)O]VCl2(THF)2",
+                "yield_g": 0.99,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 174.0,
+                "PDI": 2.39,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 59400,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "mono(β-enaminoketonato)",
+                "catalyst_metal": "V",
+                "catalyst_metal_oxidation_state": 3,
+                "catalyst_reference": "4a",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 3000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "promoter",
+                        "define": "Compound used to enhance catalyst activity or stability",
+                        "value": "ethyl trichloroacetate (ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "promoter_ratio",
+                        "define": "Molar ratio of promoter to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "polymerization_time_min",
+                        "define": "Duration of polymerization reaction in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "precatalyst_amount_umol",
+                        "define": "Amount of precatalyst used in micromoles",
+                        "value": 2.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 2"
+    ],
+    "index": [
+        [
+            1,
+            13
+        ]
+    ]
+}

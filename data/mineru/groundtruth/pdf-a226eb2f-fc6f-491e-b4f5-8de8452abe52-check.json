@@ -1,0 +1,134 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "1-TiCl",
+                "yield_g": 0.60,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": 175.0,
+                "Tm_c": null,
+                "activity": 360.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aminotriolate (modified TREN ligand)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Sudhakar, P.; Amburose, C. V.; Sundararajan, G.; Nethaji, M. Organometallics 2004, 23, 4462-4467.",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 200,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 42.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating isotactic, presence of NBE diads/trimers",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 30,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_symmetry",
+                        "define": "Symmetric environment of the catalyst system (C3 or Cs)",
+                        "value": "C3",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of the polymerization reaction in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization reaction",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "2-TiCl",
+                "yield_g": 0.71,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": 150.0,
+                "Tm_c": null,
+                "activity": 420.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aminotriolate (modified TREN ligand)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Sudhakar, P.; Amburose, C. V.; Sundararajan, G.; Nethaji, M. Organometallics 2004, 23, 4462-4467.",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 200,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 33.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating syndiotactic and isolated NBE, minor NBE diads",
+                "pressure_atm": 1.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 30,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "catalyst_symmetry",
+                        "define": "Symmetric environment of the catalyst system (C3 or Cs)",
+                        "value": "Cs",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of the polymerization reaction in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used in the polymerization reaction",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 3",
+        "Table 3"
+    ],
+    "index": [
+        [
+            1,
+            1
+        ],
+        [
+            10,
+            10
+        ]
+    ]
+}

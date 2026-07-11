@@ -1,0 +1,535 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "Ti2",
+                "yield_g": 0.52,
+                "2d_structure": null,
+                "3d_structure": "Image I (Figure 1)",
+                "Mw_kgmol": 541.0,
+                "PDI": 1.8,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 62400.0,
+                "catalyst_ccdc_number": "2268381",
+                "catalyst_ligand_type": "anthracene-bridged bifunctional alkoxide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Scheme 1B",
+                "cocatalyst": "[Ph3C][B(C6F5)4]",
+                "cocatalyst_ratio": 1,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 5.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 120,
+                "time_min": 0.5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_kgmol",
+                        "define": "Number-average molecular weight (Mn) in kg/mol.",
+                        "value": 301.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymer_type",
+                        "define": "Type of polymer produced.",
+                        "value": "Polyethylene (PE)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes.",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities.",
+                        "value": "d-MAO",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_amount_mmol",
+                        "define": "Amount of scavenger used in mmol.",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent used in mL.",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in μmol.",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Me5CpTiMe2-(OC6H3−2,6-iPr2) (Ti1)",
+                "yield_g": 0.55,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 765.0,
+                "PDI": 1.6,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 66600.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Scheme 1A",
+                "cocatalyst": "[Ph3C][B(C6F5)4]",
+                "cocatalyst_ratio": 1,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 5.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 120,
+                "tensile_strength_mpa": null,
+                "time_min": 0.5,
+                "additional_items": [
+                    {
+                        "item_name": "Mn_kgmol",
+                        "define": "Number-average molecular weight (Mn) in kg/mol.",
+                        "value": 478.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "polymer_type",
+                        "define": "Type of polymer produced.",
+                        "value": "Polyethylene (PE)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes.",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities.",
+                        "value": "d-MAO",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_amount_mmol",
+                        "define": "Amount of scavenger used in mmol.",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent used in mL.",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in μmol.",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Ti2",
+                "yield_g": 1.88,
+                "2d_structure": null,
+                "3d_structure": "Image I (Figure 1)",
+                "Mw_kgmol": 480.0,
+                "PDI": 3.1,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 66.3,
+                "activity": 112800.0,
+                "catalyst_ccdc_number": "2268381",
+                "catalyst_ligand_type": "anthracene-bridged bifunctional alkoxide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Scheme 1B",
+                "cocatalyst": "[Ph3C][B(C6F5)4]",
+                "cocatalyst_ratio": 1,
+                "comonomer_1_conC": 2.5,
+                "time_min": 1,
+                "comonomer_1_incorp": 14.9,
+                "comonomer_1_name": "1-octene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 30.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 120,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "polymer_type",
+                        "define": "Type of polymer produced.",
+                        "value": "Poly(ethylene-co-1-octene)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes.",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities.",
+                        "value": "d-MAO",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_amount_mmol",
+                        "define": "Amount of scavenger used in mmol.",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent used in mL.",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in μmol.",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Me5CpTiMe2-(OC6H3−2,6-iPr2) (Ti1)",
+                "yield_g": 0.64,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 99.0,
+                "PDI": 1.8,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 36.8,
+                "activity": 38400.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Scheme 1A",
+                "cocatalyst": "[Ph3C][B(C6F5)4]",
+                "cocatalyst_ratio": 1,
+                "comonomer_1_conC": 2.5,
+                "time_min": 1,
+                "comonomer_1_incorp": 20.3,
+                "comonomer_1_name": "1-octene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 30.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 120,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "polymer_type",
+                        "define": "Type of polymer produced.",
+                        "value": "Poly(ethylene-co-1-octene)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes.",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities.",
+                        "value": "d-MAO",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_amount_mmol",
+                        "define": "Amount of scavenger used in mmol.",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent used in mL.",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in μmol.",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Ti2",
+                "yield_g": 1.53,
+                "2d_structure": null,
+                "3d_structure": "Image I (Figure 1)",
+                "Mw_kgmol": 1680.0,
+                "PDI": 1.8,
+                "Td_c": null,
+                "Tg_c": 68.0,
+                "Tm_c": null,
+                "activity": 9180.0,
+                "catalyst_ccdc_number": "2268381",
+                "catalyst_ligand_type": "anthracene-bridged bifunctional alkoxide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Scheme 1B",
+                "cocatalyst": "[Ph3C][B(C6F5)4]",
+                "cocatalyst_ratio": 1,
+                "comonomer_1_conC": 2.0,
+                "comonomer_1_incorp": 30.1,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 30,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "polymer_type",
+                        "define": "Type of polymer produced.",
+                        "value": "Poly(ethylene-co-NBE)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes.",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities.",
+                        "value": "d-MAO",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_amount_mmol",
+                        "define": "Amount of scavenger used in mmol.",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent used in mL.",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in μmol.",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Me5CpTiMe2-(OC6H3−2,6-iPr2) (Ti1)",
+                "yield_g": 0.1,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1370.0,
+                "PDI": 1.7,
+                "Td_c": null,
+                "Tg_c": 38.0,
+                "Tm_c": null,
+                "activity": 600.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Scheme 1A",
+                "cocatalyst": "[Ph3C][B(C6F5)4]",
+                "cocatalyst_ratio": 1,
+                "comonomer_1_conC": 2.0,
+                "comonomer_1_incorp": 11.8,
+                "comonomer_1_name": "norbornene (NBE)",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "time_min": 10,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 30,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "polymer_type",
+                        "define": "Type of polymer produced.",
+                        "value": "Poly(ethylene-co-NBE)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes.",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "scavenger",
+                        "define": "Compound used to remove impurities.",
+                        "value": "d-MAO",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "scavenger_amount_mmol",
+                        "define": "Amount of scavenger used in mmol.",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization.",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_ml",
+                        "define": "Volume of solvent used in mL.",
+                        "value": 30.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in μmol.",
+                        "value": 1.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1",
+        "Table 2",
+        "Table 2",
+        "Table 3",
+        "Table 3"
+    ],
+    "index": [
+        [
+            5,
+            6
+        ],
+        [
+            2,
+            2
+        ],
+        [
+            6,
+            6
+        ],
+        [
+            5,
+            5
+        ],
+        [
+            2,
+            2
+        ]
+    ]
+}

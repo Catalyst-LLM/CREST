@@ -1,0 +1,893 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "2a",
+                "yield_g": 0.74,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 220.0,
+                "PDI": 3.3,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 17.8,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine bis-pyridine phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2b",
+                "yield_g": 1.75,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 78.5,
+                "PDI": 3.1,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 42.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2c",
+                "yield_g": 2.19,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 128.0,
+                "PDI": 3.0,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 52.3,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2d",
+                "yield_g": 2.76,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 55.8,
+                "PDI": 2.4,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 66.2,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2e",
+                "yield_g": 2.43,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 62.4,
+                "PDI": 2.3,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 58.3,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 2.14,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 158.0,
+                "PDI": 2.6,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 51.4,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 0.86,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 306.0,
+                "PDI": 3.1,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 20.6,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 500,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 1.28,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 220.0,
+                "PDI": 3.0,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 30.7,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 2.36,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 82.0,
+                "PDI": 2.4,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 56.6,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 6000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 1.45,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 101.0,
+                "PDI": 1.9,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 34.8,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 2.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 0.23,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 83.6,
+                "PDI": 2.0,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 5.52,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 0.7,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 136.0,
+                "PDI": 2.2,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 42.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 5,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reactivating_agent_ratio",
+                        "define": "Molar ratio of reactivating agent to vanadium",
+                        "value": 300,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 5,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "2f",
+                "yield_g": 1.19,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 117.0,
+                "PDI": 2.0,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 35.7,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "amine pyridine(s) phenolate",
+                "catalyst_metal": "Vanadium",
+                "catalyst_metal_oxidation_state": 5,
+                "catalyst_reference": "Dalton Trans., 2014, 43, 12926",
+                "cocatalyst": "Et2AlCl",
+                "cocatalyst_ratio": 4000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 50,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reactivating_agent",
+                        "define": "Compound used to reactivate the catalyst during polymerization",
+                        "value": "CCl3COOEt (ethyl trichloroacetate, ETA)",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "total_volume_ml",
+                        "define": "Total reaction volume in milliliters",
+                        "value": 50,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 2"
+    ],
+    "index": [
+        [
+            1,
+            13
+        ]
+    ]
+}

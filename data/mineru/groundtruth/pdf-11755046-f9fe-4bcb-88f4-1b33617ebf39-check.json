@@ -1,0 +1,290 @@
+{
+  "data": [
+    [
+      {
+        "catalyst_name": "Cp*TiCl2[1,3-(2,6-Me2C6H3)2(CH2N)2C=N] (1d)",
+        "yield_g": 0.146,
+        "2d_structure": "Cp*TiCl2[1,3-(2,6-Me2C6H3)2(CH2N)2C=N]",
+        "3d_structure": "See Fig. 1 (bottom left) in paper",
+        "Mw_kgmol": 1049.21,
+        "PDI": 2.09,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 1750000.0,
+        "catalyst_ccdc_number": null,
+        "catalyst_ligand_type": "1,3-imidazolidin-2-iminato",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Synthesis described in Experimental section",
+        "cocatalyst": "d-MAO",
+        "cocatalyst_ratio": 200,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": 16.4,
+        "comonomer_1_name": "1-hexene",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 6.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 25,
+        "tensile_strength_mpa": null,
+        "time_min": 10,
+        "additional_items": [
+          {
+            "item_name": "Mn",
+            "define": "Number-average molecular weight",
+            "value": 1130.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "catalyst_amount",
+            "define": "Amount of catalyst used in micromoles",
+            "value": 0.0005,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "reaction_time",
+            "define": "Polymerization time in minutes",
+            "value": 10,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "solvent",
+            "define": "Solvent used for polymerization",
+            "value": "toluene + minimum CH2Cl2",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "total_volume",
+            "define": "Total reaction volume in mL",
+            "value": 30.0,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "Cp*TiCl2[1,3-(2,6-Me2C6H3)2(CH2N)2C=N] (1d)",
+        "yield_g": 0.138,
+        "2d_structure": "Cp*TiCl2[1,3-(2,6-Me2C6H3)2(CH2N)2C=N]",
+        "3d_structure": "See Fig. 1 (bottom left) in paper",
+        "Mw_kgmol": 2783.0,
+        "PDI": 2.30,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 828000.0,
+        "catalyst_ccdc_number": null,
+        "catalyst_ligand_type": "1,3-imidazolidin-2-iminato",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Synthesis described in Experimental section",
+        "cocatalyst": "d-MAO",
+        "cocatalyst_ratio": 100,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": 26.5,
+        "comonomer_1_name": "1-hexene",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 6.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 25,
+        "time_min": 10,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "Mn",
+            "define": "Number-average molecular weight",
+            "value": 1210.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "catalyst_amount",
+            "define": "Amount of catalyst used in micromoles",
+            "value": 0.001,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "reaction_time",
+            "define": "Polymerization time in minutes",
+            "value": 10,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "solvent",
+            "define": "Solvent used for polymerization",
+            "value": "toluene + minimum CH2Cl2",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "total_volume",
+            "define": "Total reaction volume in mL",
+            "value": 30.0,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "Cp*TiCl2[1,3-(2,6-iPr2C6H3)2(CH2N)2C=N] (1e)",
+        "yield_g": 0.069,
+        "2d_structure": "Cp*TiCl2[1,3-(2,6-iPr2C6H3)2(CH2N)2C=N]",
+        "3d_structure": "See Fig. 1 (bottom right) in paper",
+        "Mw_kgmol": 1385.12,
+        "PDI": 1.76,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 822000.0,
+        "catalyst_ccdc_number": null,
+        "catalyst_ligand_type": "1,3-imidazolidin-2-iminato",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Synthesis described in Experimental section",
+        "cocatalyst": "d-MAO",
+        "cocatalyst_ratio": 6000,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "1-hexene",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 6.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 25,
+        "time_min": 10,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "Mn",
+            "define": "Number-average molecular weight",
+            "value": 787.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "catalyst_amount",
+            "define": "Amount of catalyst used in micromoles",
+            "value": 0.0005,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "reaction_time",
+            "define": "Polymerization time in minutes",
+            "value": 10,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "solvent",
+            "define": "Solvent used for polymerization",
+            "value": "toluene + minimum CH2Cl2",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "total_volume",
+            "define": "Total reaction volume in mL",
+            "value": 30.0,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "Cp*TiCl2[1,3-(2,6-iPr2C6H3)2(CH2N)2C=N] (1e)",
+        "yield_g": 0.161,
+        "2d_structure": "Cp*TiCl2[1,3-(2,6-iPr2C6H3)2(CH2N)2C=N]",
+        "3d_structure": "See Fig. 1 (bottom right) in paper",
+        "Mw_kgmol": 1246.42,
+        "PDI": 2.03,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 482000.0,
+        "catalyst_ccdc_number": null,
+        "catalyst_ligand_type": "1,3-imidazolidin-2-iminato",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Synthesis described in Experimental section",
+        "cocatalyst": "d-MAO",
+        "cocatalyst_ratio": 1500,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "1-hexene",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 6.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 25,
+        "tensile_strength_mpa": null,
+        "time_min": 10,
+        "additional_items": [
+          {
+            "item_name": "Mn",
+            "define": "Number-average molecular weight",
+            "value": 614.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "catalyst_amount",
+            "define": "Amount of catalyst used in micromoles",
+            "value": 0.002,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "reaction_time",
+            "define": "Polymerization time in minutes",
+            "value": 10,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "solvent",
+            "define": "Solvent used for polymerization",
+            "value": "toluene + minimum CH2Cl2",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "total_volume",
+            "define": "Total reaction volume in mL",
+            "value": 30.0,
+            "suggested_data_type": "Float"
+          }
+        ]
+      }
+    ]
+  ],
+  "ignore": [
+    true
+  ],
+  "data_id": [
+    "Table 4"
+  ],
+  "index": [
+    [
+      4,
+      7
+    ]
+  ]
+}

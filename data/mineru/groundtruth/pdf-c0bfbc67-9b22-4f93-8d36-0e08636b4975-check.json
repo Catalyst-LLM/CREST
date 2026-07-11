@@ -1,0 +1,913 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.4,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 138.1,
+                "activity": 66.8,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 0,
+                "tensile_strength_mpa": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 1500000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.441,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 137.0,
+                "activity": 72.4,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 20,
+                "time_min": 30,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 1290000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.25,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 135.2,
+                "activity": 42.2,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "time_min": 30,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 820000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.13,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 133.8,
+                "activity": 21.2,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 60,
+                "time_min": 30,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 710000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.09,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 130.5,
+                "activity": 15.3,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 80,
+                "time_min": 30,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 200000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-dimethylphenyl)",
+                "yield_g": 0.301,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 137.1,
+                "activity": 49.9,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 20,
+                "time_min": 30,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 1240000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CH3)CHC(CH3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.248,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 135.9,
+                "activity": 40.6,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 20,
+                "time_min": 30,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 1250000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CH3)CHC(CH3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.15,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 134.2,
+                "activity": 24.9,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 40,
+                "time_min": 30,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 760000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CH3)CHC(CH3)NAr]2TiCl2 (Ar = 2,6-dimethylphenyl)",
+                "yield_g": 0.185,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 137.1,
+                "activity": 30.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 30,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 20,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mv_gmol",
+                        "define": "Viscosity-average molecular weight in g/mol",
+                        "value": 1210000.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.0085,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1.41,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "time_min": 30,
+                "temperature_c": 40,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_amount_g",
+                        "define": "Mass of norbornene monomer charged in grams",
+                        "value": 4.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.0091,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1.51,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "time_min": 30,
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 60,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_amount_g",
+                        "define": "Mass of norbornene monomer charged in grams",
+                        "value": 4.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[ArNC(CF3)CHC(CF3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.0078,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1.30,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "time_min": 30,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 1,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 80,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_amount_g",
+                        "define": "Mass of norbornene monomer charged in grams",
+                        "value": 4.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "[ArNC(CH3)CHC(CH3)NAr]2TiCl2 (Ar = 2,6-diisopropylphenyl)",
+                "yield_g": 0.0063,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": null,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1.04,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "bis(β-diketiminato)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Synthesis described in EXPERIMENTAL section",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 333,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "time_min": 30,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": null,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 60,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Polymerization reaction duration in minutes",
+                        "value": 30,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Solvent used for polymerization",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "catalyst_amount_umol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 12,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "MAO_amount_mg",
+                        "define": "Mass of methylaluminoxane cocatalyst used in milligrams",
+                        "value": 232,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "NB_amount_g",
+                        "define": "Mass of norbornene monomer charged in grams",
+                        "value": 4.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1",
+        "Table 2",
+        "Table 2"
+    ],
+    "index": [
+        [
+            1,
+            9
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            6,
+            6
+        ]
+    ]
+}

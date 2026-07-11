@@ -1,0 +1,166 @@
+[
+    {
+        "catalyst_name": "L1-Ti",
+        "yield_g": null,
+        "2d_structure": null,
+        "3d_structure": null,
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": 440.0,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 68.9,
+        "catalyst_ccdc_number": null,
+        "catalyst_ligand_type": "pyridinium imide",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Scheme 1, Experimental section",
+        "cocatalyst": "TIBA",
+        "cocatalyst_ratio": 300,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": null,
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Homopolymerization",
+        "selectivity": null,
+        "temperature_c": 80,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+            {
+                "item_name": "monomer_name",
+                "define": "The name of the monomer used in homopolymerization.",
+                "value": "norbornene (NB)",
+                "suggested_data_type": "String"
+            },
+            {
+                "item_name": "monomer_to_catalyst_ratio",
+                "define": "The molar ratio of monomer to catalyst.",
+                "value": 1000,
+                "suggested_data_type": "Integer"
+            },
+            {
+                "item_name": "reaction_time_min",
+                "define": "The duration of the polymerization reaction in minutes.",
+                "value": 60,
+                "suggested_data_type": "Integer"
+            },
+            {
+                "item_name": "solvent",
+                "define": "The solvent used in the polymerization reaction.",
+                "value": "toluene",
+                "suggested_data_type": "String"
+            },
+            {
+                "item_name": "solvent_volume_ml",
+                "define": "The volume of solvent used in milliliters.",
+                "value": 5,
+                "suggested_data_type": "Integer"
+            },
+            {
+                "item_name": "catalyst_amount_umol",
+                "define": "The amount of catalyst used in micromoles.",
+                "value": 5,
+                "suggested_data_type": "Integer"
+            },
+            {
+                "item_name": "polymer_morphology",
+                "define": "The morphological description of the polymer as observed by SEM.",
+                "value": "flaky",
+                "suggested_data_type": "String"
+            },
+            {
+                "item_name": "polymer_solubility",
+                "define": "Qualitative description of the polymer's solubility.",
+                "value": "poor",
+                "suggested_data_type": "String"
+            }
+        ]
+    },
+    {
+        "catalyst_name": "L1-Ti",
+        "yield_g": null,
+        "2d_structure": null,
+        "3d_structure": null,
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": 400.0,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 224,
+        "catalyst_ccdc_number": null,
+        "catalyst_ligand_type": "pyridinium imide",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Scheme 1, Experimental section",
+        "cocatalyst": "TIBA",
+        "cocatalyst_ratio": 300,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": 83.4,
+        "comonomer_1_name": "norbornene (NB)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": "ethylene (E)",
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 80,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+            {
+                "item_name": "monomer_feed_ratio",
+                "define": "The feeding ratio of comonomers, expressed as [NB]/[E] in mmol/MPa.",
+                "value": "5/0.5",
+                "suggested_data_type": "String"
+            },
+            {
+                "item_name": "reaction_time_min",
+                "define": "The duration of the copolymerization reaction in minutes.",
+                "value": 30,
+                "suggested_data_type": "Integer"
+            },
+            {
+                "item_name": "solvent",
+                "define": "The solvent used in the copolymerization reaction.",
+                "value": "toluene",
+                "suggested_data_type": "String"
+            },
+            {
+                "item_name": "solvent_volume_ml",
+                "define": "The volume of solvent used in milliliters.",
+                "value": 15,
+                "suggested_data_type": "Integer"
+            },
+            {
+                "item_name": "catalyst_amount_umol",
+                "define": "The amount of catalyst used in micromoles.",
+                "value": 5,
+                "suggested_data_type": "Integer"
+            },
+            {
+                "item_name": "polymer_morphology",
+                "define": "The morphological description of the copolymer as observed by SEM.",
+                "value": "cross-linked network",
+                "suggested_data_type": "String"
+            },
+            {
+                "item_name": "polymer_solubility",
+                "define": "Qualitative description of the copolymer's solubility.",
+                "value": "poor",
+                "suggested_data_type": "String"
+            }
+        ]
+    }
+]

@@ -1,0 +1,930 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "CpTiCl2[N=C(tBu)2] (1a)",
+                "yield_g": 0.098,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1039.6,
+                "PDI": 2.30,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "time_min": 10,
+                "activity": 5880.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [15a]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 452.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.1,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[N=C(tBu)Ph] (1b)",
+                "yield_g": 0.075,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 877.76,
+                "PDI": 21.1,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 90.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 600,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "molecular_weight_distribution",
+                        "define": "Shape of molecular weight distribution from GPC",
+                        "value": "Multi-modal",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2(N=CPh2) (1c)",
+                "yield_g": 0.047,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 877.76,
+                "PDI": 21.1,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 56.4,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 600,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 41.6,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "PDI_actual",
+                        "define": "Polydispersity Index from multi-modal distribution",
+                        "value": 21.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "molecular_weight_distribution",
+                        "define": "Shape of molecular weight distribution from GPC",
+                        "value": "Multi-modal",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp*TiCl2[N=C(tBu)2] (2a)",
+                "yield_g": 0.164,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1033.9,
+                "PDI": 2.45,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 19680.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [15a]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 60000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 422.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.05,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp*TiCl2(N=CPh2) (2c)",
+                "yield_g": 0.105,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 256.669,
+                "PDI": 25.9,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 126.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "This work",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 600,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 99.1,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "PDI_actual",
+                        "define": "Polydispersity Index from multi-modal distribution",
+                        "value": 25.9,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "molecular_weight_distribution",
+                        "define": "Shape of molecular weight distribution from GPC",
+                        "value": "Multi-modal",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp*TiCl2(O-2,6-iPr2C6H3) (3)",
+                "yield_g": 0.280,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1238.8,
+                "PDI": 1.90,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 8400.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [7]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 15000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": null,
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Homopolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 652.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Cp*TiCl2(O-2,6-iPr2C6H3) (3)",
+                "yield_g": 0.218,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 932.19,
+                "PDI": 1.61,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 6540.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [7]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 15000,
+                "comonomer_1_conC": 0.2,
+                "comonomer_1_incorp": 8.2,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "time_min": 10,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 579,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp*TiCl2(O-2,6-iPr2C6H3) (3)",
+                "yield_g": 0.088,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 432.16,
+                "PDI": 1.46,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "time_min": 10,
+                "activity": 2640.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [7]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 15000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 21.7,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 296.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.2,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(C5Me4)(NtBu)]TiCl2 (4)",
+                "yield_g": 0.205,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 396.68,
+                "PDI": 1.88,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 2460.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "linked amide (CGC)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 6000,
+                "comonomer_1_conC": 0.2,
+                "comonomer_1_incorp": 9.6,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 211.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "[Me2Si(C5Me4)(NtBu)]TiCl2 (4)",
+                "yield_g": 0.1667,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 275.2,
+                "PDI": 2.15,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 2000.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "linked amide (CGC)",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": null,
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 6000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 26.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 128.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.5,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[N=C(tBu)2] (1a)",
+                "yield_g": 0.072,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1306.1,
+                "PDI": 1.85,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 21600.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [15a]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 150000,
+                "comonomer_1_conC": 0.2,
+                "comonomer_1_incorp": 17.8,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "Contains alternating, isolated NBE sequences, and NBE dyads/triads",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "time_min": 10,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 706.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.02,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[N=C(tBu)2] (1a)",
+                "yield_g": 0.134,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 2099.48,
+                "PDI": 2.92,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 40200.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [15a]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 150000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 40.7,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "Contains alternating, isolated NBE sequences, and NBE dyads/triads",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 719.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.02,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "CpTiCl2[N=C(tBu)2] (1a)",
+                "yield_g": 0.4013,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1126.74,
+                "PDI": 2.11,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 60200.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [15a]",
+                "cocatalyst": "MAO (white solid)",
+                "cocatalyst_ratio": 150000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 41.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "Contains alternating, isolated NBE sequences, and NBE dyads/triads",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 20,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 534.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent",
+                        "define": "Reaction solvent",
+                        "value": "toluene",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "solvent_volume_mL",
+                        "define": "Volume of solvent used",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time_min",
+                        "define": "Duration of polymerization reaction",
+                        "value": 20,
+                        "suggested_data_type": "Integer"
+                    },
+                    {
+                        "item_name": "catalyst_amount_μmol",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 0.02,
+                        "suggested_data_type": "Float"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 2",
+        "Table 3"
+    ],
+    "index": [
+        [
+            1,
+            6
+        ],
+        [
+            1,
+            7
+        ]
+    ]
+}

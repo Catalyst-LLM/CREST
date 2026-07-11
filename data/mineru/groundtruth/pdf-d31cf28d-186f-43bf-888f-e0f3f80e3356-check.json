@@ -1,0 +1,1061 @@
+{
+  "data": [
+    [
+      {
+        "catalyst_name": "V1",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 30,
+        "cocatalyst": "Al₂Et₃Cl₃",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 0.31,
+        "activity": 1900,
+        "Mw_kgmol": 67.4,
+        "PDI": 1.89,
+        "Tm_c": 133.7,
+        "catalyst_metal_oxidation_state": 3,
+        "time_min": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V3",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 30,
+        "cocatalyst": "Al₂Et₃Cl₃",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 0.21,
+        "activity": 1300,
+        "Mw_kgmol": 64.9,
+        "PDI": 2.24,
+        "Tm_c": 136.6,
+        "catalyst_metal_oxidation_state": 3,
+        "time_min": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V3",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 30,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 4000,
+        "yield_g": null,
+        "activity": null,
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Tm_c": null,
+        "catalyst_metal_oxidation_state": 3,
+        "time_min": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "note",
+            "define": "Qualitative description of polymer yield",
+            "value": "Trace",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V4",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 30,
+        "cocatalyst": "Al₂Et₃Cl₃",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 1.02,
+        "activity": 6100,
+        "Mw_kgmol": 94.1,
+        "PDI": 2.57,
+        "Tm_c": 134.8,
+        "catalyst_metal_oxidation_state": 3,
+        "time_min": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V4",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "Al₂Et₃Cl₃",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 1.07,
+        "activity": 6100,
+        "Mw_kgmol": 78.6,
+        "PDI": 2.26,
+        "Tm_c": 136.6,
+        "catalyst_metal_oxidation_state": 3,
+        "time_min": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V4",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 70,
+        "cocatalyst": "Al₂Et₃Cl₃",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 0.88,
+        "activity": 5300,
+        "Mw_kgmol": 35.7,
+        "PDI": 2.31,
+        "Tm_c": 138.8,
+        "catalyst_metal_oxidation_state": 3,
+        "time_min": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 30,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 0.71,
+        "activity": 42600,
+        "Mw_kgmol": 37.8,
+        "PDI": 1.86,
+        "Tm_c": 139.3,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 1.13,
+        "activity": 67800,
+        "Mw_kgmol": 11.1,
+        "PDI": 2.47,
+        "Tm_c": 136.8,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 70,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 1.02,
+        "activity": 61200,
+        "Mw_kgmol": 5.4,
+        "PDI": 2.10,
+        "Tm_c": 133.8,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 90,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 0.50,
+        "activity": 36000,
+        "Mw_kgmol": 4.6,
+        "PDI": 1.79,
+        "Tm_c": 132.9,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 2000,
+        "yield_g": 0.23,
+        "activity": 13800,
+        "Mw_kgmol": 16.6,
+        "PDI": 1.77,
+        "Tm_c": 138.6,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "yield_g": 1.38,
+        "activity": 82800,
+        "Mw_kgmol": 9.62,
+        "PDI": 2.00,
+        "Tm_c": 133.8,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 8000,
+        "yield_g": 0.76,
+        "activity": 45600,
+        "Mw_kgmol": 11.0,
+        "PDI": 2.40,
+        "Tm_c": 136.1,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "Al₂Et₃Cl₃",
+        "cocatalyst_ratio": 4000,
+        "yield_g": 0.88,
+        "activity": 52800,
+        "Mw_kgmol": 28.0,
+        "PDI": 2.12,
+        "Tm_c": 136.8,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V5",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "yield_g": 0.85,
+        "activity": 51000,
+        "Mw_kgmol": 12.0,
+        "PDI": 2.23,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "Tm_c": 135.6,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V6",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Homopolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "yield_g": 0.69,
+        "activity": 41400,
+        "Mw_kgmol": 16.8,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "PDI": 1.83,
+        "Tm_c": 134.7,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Copolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_name": "norbornene",
+        "comonomer_1_conC": 0.1,
+        "yield_g": 0.67,
+        "activity": 40200,
+        "Mw_kgmol": 13.5,
+        "PDI": 1.81,
+        "comonomer_1_incorp": 2.3,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Copolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 4000,
+        "comonomer_1_name": "norbornene",
+        "comonomer_1_conC": 0.1,
+        "yield_g": 0.96,
+        "activity": 57600,
+        "Mw_kgmol": 12.4,
+        "PDI": 1.87,
+        "comonomer_1_incorp": 6.6,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Copolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "comonomer_1_name": "norbornene",
+        "comonomer_1_conC": 0.1,
+        "yield_g": 1.17,
+        "activity": 70200,
+        "Mw_kgmol": 9.4,
+        "PDI": 1.95,
+        "comonomer_1_incorp": 8.1,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Copolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "comonomer_1_name": "norbornene",
+        "comonomer_1_conC": 0.5,
+        "yield_g": 1.76,
+        "activity": 105600,
+        "Mw_kgmol": 9.0,
+        "PDI": 1.86,
+        "comonomer_1_incorp": 22.1,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V7",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Copolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "comonomer_1_name": "norbornene",
+        "comonomer_1_conC": 1.0,
+        "yield_g": 1.58,
+        "activity": 94800,
+        "Mw_kgmol": 10.5,
+        "PDI": 1.89,
+        "comonomer_1_incorp": 30.9,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V5",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Copolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "comonomer_1_name": "norbornene",
+        "comonomer_1_conC": 0.1,
+        "yield_g": 0.78,
+        "activity": 46800,
+        "Mw_kgmol": 15.3,
+        "PDI": 1.86,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "comonomer_1_incorp": 7.1,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "V6",
+        "catalyst_metal": "V",
+        "catalyst_ligand_type": "8-anilide-5,6,7-trihydroquinoline",
+        "catalyst_reference": "This work",
+        "reaction_type": "Copolymerization",
+        "temperature_c": 50,
+        "cocatalyst": "AlEt₂Cl",
+        "cocatalyst_ratio": 6000,
+        "comonomer_1_name": "norbornene",
+        "comonomer_1_conC": 0.1,
+        "yield_g": 1.01,
+        "activity": 60600,
+        "Mw_kgmol": 14.0,
+        "PDI": 1.97,
+        "time_min": 5,
+        "catalyst_metal_oxidation_state": 5,
+        "pressure_atm": 3.95,
+        "comonomer_1_incorp": 3.3,
+        "additional_items": [
+          {
+            "item_name": "reactivator",
+            "define": "Compound added to maintain higher valence/activity of vanadium species",
+            "value": "ETA (ethyl trichloroacetate)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "reactivator_ratio",
+            "define": "Molar ratio of reactivator to vanadium",
+            "value": 300,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "polymerization_time",
+            "define": "Duration of polymerization reaction",
+            "value": 5,
+            "suggested_data_type": "Integer"
+          },
+          {
+            "item_name": "pressure_bar",
+            "define": "Ethylene pressure in bar",
+            "value": 4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      }
+    ]
+  ],
+  "data_id": [
+    "Table 1",
+    "Table 2",
+    "Table 3"
+  ],
+  "index": [
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      1,
+      7
+    ]
+  ]
+}

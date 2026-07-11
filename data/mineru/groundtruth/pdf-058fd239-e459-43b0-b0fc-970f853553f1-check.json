@@ -1,0 +1,885 @@
+{
+  "data": [
+    [
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 1.7,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": 131.0,
+        "activity": 85.0,
+        "catalyst_ccdc_number": "1502541",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": null,
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Homopolymerization",
+        "selectivity": null,
+        "temperature_c": 50,
+        "tensile_strength_mpa": null,
+        "time_min": 60,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "High-density polyethylene (HDPE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 7.5,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": 132.0,
+        "activity": 375.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": null,
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Homopolymerization",
+        "selectivity": null,
+        "temperature_c": 60,
+        "tensile_strength_mpa": null,
+        "time_min": 60,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "High-density polyethylene (HDPE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 2.3,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": 135.0,
+        "activity": 115.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": null,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": null,
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Homopolymerization",
+        "selectivity": null,
+        "temperature_c": 70,
+        "tensile_strength_mpa": null,
+        "time_min": 60,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "High-density polyethylene (HDPE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 0.37,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 100.0,
+        "catalyst_ccdc_number": "1502541",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 0.15,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Homopolymerization",
+        "selectivity": 86,
+        "temperature_c": 50,
+        "tensile_strength_mpa": null,
+        "time_min": 60,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Norborn-2-ene (NBE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(NBE)ROMP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "cis_content",
+            "define": "Percentage of cis double bonds in the polymer.",
+            "value": 86.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "tacticity",
+            "define": "Stereoregularity of the polymer.",
+            "value": "syndiotactic",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 0.29,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 80.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 0.15,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Homopolymerization",
+        "selectivity": 81,
+        "temperature_c": 60,
+        "time_min": 60,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Norborn-2-ene (NBE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(NBE)ROMP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "cis_content",
+            "define": "Percentage of cis double bonds in the polymer.",
+            "value": 81.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "tacticity",
+            "define": "Stereoregularity of the polymer.",
+            "value": "syndiotactic",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 0.17,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 45.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 0.15,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Homopolymerization",
+        "selectivity": 75,
+        "temperature_c": 70,
+        "time_min": 60,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Norborn-2-ene (NBE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(NBE)ROMP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "cis_content",
+            "define": "Percentage of cis double bonds in the polymer.",
+            "value": 75.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "tacticity",
+            "define": "Stereoregularity of the polymer.",
+            "value": "syndiotactic",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 0.22,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 60.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 1.5,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Homopolymerization",
+        "selectivity": 88,
+        "temperature_c": 50,
+        "tensile_strength_mpa": null,
+        "time_min": 60,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Norborn-2-ene (NBE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(NBE)ROMP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "cis_content",
+            "define": "Percentage of cis double bonds in the polymer.",
+            "value": 88.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "tacticity",
+            "define": "Stereoregularity of the polymer.",
+            "value": "syndiotactic",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 0.33,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 90.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 1.5,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Homopolymerization",
+        "selectivity": null,
+        "temperature_c": 60,
+        "tensile_strength_mpa": null,
+        "time_min": 60,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Norborn-2-ene (NBE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(NBE)ROMP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "cis_content",
+            "define": "Percentage of cis double bonds in the polymer.",
+            "value": 97.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "tacticity",
+            "define": "Stereoregularity of the polymer.",
+            "value": "syndiotactic",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 0.29,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": null,
+        "activity": 80.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 1.5,
+        "comonomer_1_incorp": null,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": null,
+        "reaction_type": "Homopolymerization",
+        "selectivity": 83,
+        "temperature_c": 70,
+        "tensile_strength_mpa": null,
+        "time_min": 60,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Norborn-2-ene (NBE)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(NBE)ROMP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "cis_content",
+            "define": "Percentage of cis double bonds in the polymer.",
+            "value": 83.0,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "tacticity",
+            "define": "Stereoregularity of the polymer.",
+            "value": "syndiotactic",
+            "suggested_data_type": "String"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 4.3,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": 127.0,
+        "activity": 215.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 0.15,
+        "comonomer_1_incorp": "<1.0",
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 50,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(E)-co-poly(NBE)VIP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 3.4,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": null,
+        "Tm_c": 125.0,
+        "activity": 170.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 0.15,
+        "comonomer_1_incorp": "<1.0",
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 60,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(E)-co-poly(NBE)VIP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 2.0,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": -0.9,
+        "Tm_c": 125.0,
+        "activity": 100.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 1.5,
+        "comonomer_1_incorp": 10.0,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 50,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(E)-co-poly(NBE)VIP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Tg_onset_c",
+            "define": "Onset temperature of the glass transition in °C.",
+            "value": -5.2,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "Tg_end_c",
+            "define": "End temperature of the glass transition in °C.",
+            "value": 1.7,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 2.5,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": 0.1,
+        "Tm_c": 125.0,
+        "activity": 125.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 1.5,
+        "comonomer_1_incorp": 10.0,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 60,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(E)-co-poly(NBE)VIP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Tg_onset_c",
+            "define": "Onset temperature of the glass transition in °C.",
+            "value": -5.4,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "Tg_end_c",
+            "define": "End temperature of the glass transition in °C.",
+            "value": 2.6,
+            "suggested_data_type": "Float"
+          }
+        ]
+      },
+      {
+        "catalyst_name": "chlorido[h3-N-{6-[2(diethylboryl)phenyl]pyridyl-2-yl}-N-(6-C6H4)pyrid-2-yl)amido]pentamethylcyclopentadienyltitanium (Ti-1)",
+        "yield_g": 2.0,
+        "2d_structure": null,
+        "3d_structure": "Image I",
+        "Mw_kgmol": null,
+        "PDI": null,
+        "Td_c": null,
+        "Tg_c": -1.2,
+        "Tm_c": 130.0,
+        "activity": 100.0,
+        "catalyst_ccdc_number": "1502541, 1502542",
+        "catalyst_ligand_type": "aminoborane",
+        "catalyst_metal": "Ti",
+        "catalyst_metal_oxidation_state": 4,
+        "catalyst_reference": "Ref [6e,g,8b]",
+        "cocatalyst": "MAO",
+        "cocatalyst_ratio": 2000,
+        "comonomer_1_conC": 1.5,
+        "comonomer_1_incorp": 9.0,
+        "comonomer_1_name": "Norborn-2-ene (NBE)",
+        "comonomer_2_conC": null,
+        "comonomer_2_incorp": null,
+        "comonomer_2_name": null,
+        "comonomer_3_conC": null,
+        "comonomer_3_incorp": null,
+        "comonomer_3_name": null,
+        "elastic_modulus_mpa": null,
+        "monomer_Sequence_in_dimers_or_trimers": null,
+        "pressure_atm": 4.0,
+        "reaction_type": "Copolymerization",
+        "selectivity": null,
+        "temperature_c": 75,
+        "tensile_strength_mpa": null,
+        "additional_items": [
+          {
+            "item_name": "monomer_name",
+            "define": "The name of the primary monomer.",
+            "value": "Ethylene (E)",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "polymer_type",
+            "define": "The type of polymer produced.",
+            "value": "poly(E)-co-poly(NBE)VIP",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Mn_gmol",
+            "define": "Number-average molecular weight in g/mol.",
+            "value": "> 6,000,000",
+            "suggested_data_type": "String"
+          },
+          {
+            "item_name": "Tg_onset_c",
+            "define": "Onset temperature of the glass transition in °C.",
+            "value": -8.3,
+            "suggested_data_type": "Float"
+          },
+          {
+            "item_name": "Tg_end_c",
+            "define": "End temperature of the glass transition in °C.",
+            "value": 1.4,
+            "suggested_data_type": "Float"
+          }
+        ]
+      }
+    ]
+  ],
+  "ignore": [
+    false,
+    false,
+    true
+  ],
+  "data_id": [
+    "Table 1",
+    "Table 2",
+    "Table 3"
+  ],
+  "index": [
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      5
+    ]
+  ]
+}

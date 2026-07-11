@@ -1,0 +1,886 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "Cp*TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 1.01,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.8,
+                "Td_c": null,
+                "Tg_c": -6.4,
+                "Tm_c": 85.7,
+                "activity": 4030.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 1",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.1,
+                "comonomer_1_incorp": 4.7,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating E-N sequences and isolated NBE units",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "time_min": 10,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 700.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp*TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.576,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.0,
+                "Td_c": null,
+                "Tg_c": -4.4,
+                "Tm_c": 61.9,
+                "activity": 2300.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 2",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.2,
+                "comonomer_1_incorp": 7.6,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating E-N sequences and isolated NBE units",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 261.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp*TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.746,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.4,
+                "Td_c": null,
+                "Tg_c": 14.9,
+                "Tm_c": null,
+                "activity": 1790.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 3",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 1200,
+                "comonomer_1_conC": 0.5,
+                "comonomer_1_incorp": 12.9,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "time_min": 10,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating E-N sequences and isolated NBE units",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 287.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp*TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.354,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.4,
+                "Td_c": null,
+                "Tg_c": 44.8,
+                "Tm_c": null,
+                "activity": 850.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 4",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 1200,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 26.2,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "time_min": 10,
+                "monomer_Sequence_in_dimers_or_trimers": "alternating E-N sequences and isolated NBE units",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 146.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "BuC5H4TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.612,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.5,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": 92.7,
+                "activity": 1470.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 5",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 1200,
+                "comonomer_1_conC": 0.05,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NBE dyads present",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 180.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "BuC5H4TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.877,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.2,
+                "Td_c": null,
+                "Tg_c": -5.7,
+                "Tm_c": 65.9,
+                "activity": 1060.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 6",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 1200,
+                "time_min": 10,
+                "comonomer_1_conC": 0.1,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NBE dyads present",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 129.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "BuC5H4TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.585,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.6,
+                "Td_c": null,
+                "Tg_c": 1.2,
+                "Tm_c": null,
+                "activity": 702.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 7",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 600,
+                "comonomer_1_conC": 0.2,
+                "comonomer_1_incorp": 14.1,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NBE dyads present",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 44.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "BuC5H4TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.146,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 4.1,
+                "Td_c": null,
+                "Tg_c": 54.8,
+                "Tm_c": null,
+                "activity": 176.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 8",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 600,
+                "comonomer_1_conC": 0.5,
+                "comonomer_1_incorp": 27.5,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "NBE dyads present",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 6.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 5.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "1,3-TBu2C5H3TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.024,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.6,
+                "Td_c": null,
+                "Tg_c": -5.0,
+                "Tm_c": 76.4,
+                "activity": 58.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 9",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 1200,
+                "comonomer_1_conC": 0.1,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 13.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "1,3-TBu2C5H3TiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.019,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.1,
+                "Td_c": null,
+                "Tg_c": 0.4,
+                "Tm_c": 39.2,
+                "activity": 45.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-cyclopentadienyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 10",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 1200,
+                "comonomer_1_conC": 0.2,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": null,
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 7.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 2.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "indenylTiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.283,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.8,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1130.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-indenyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 11",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": null,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads), alternating and isolated NBE sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 447.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "indenylTiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 0.79,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 2.0,
+                "Td_c": null,
+                "Tg_c": -2.4,
+                "Tm_c": 99.2,
+                "activity": 3160.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-indenyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 12",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.05,
+                "comonomer_1_incorp": 6.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads), alternating and isolated NBE sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 249.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "indenylTiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 1.21,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.4,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 4840.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-indenyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 13",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.2,
+                "comonomer_1_incorp": null,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads), alternating and isolated NBE sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 116.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "indenylTiCl2(O-2,6-Pr2C6H3)",
+                "yield_g": 1.51,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": null,
+                "PDI": 1.6,
+                "Td_c": null,
+                "Tg_c": 9.4,
+                "Tm_c": null,
+                "activity": 6040.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "aryloxo-indenyl",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Table 1, run 14",
+                "cocatalyst": "d-MAO",
+                "cocatalyst_ratio": 2000,
+                "comonomer_1_conC": 0.3,
+                "comonomer_1_incorp": 16.0,
+                "comonomer_1_name": "norbornene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "mixture of NBE repeat units (including dyads), alternating and isolated NBE sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "time_min": 10,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 178.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "catalyst_amount",
+                        "define": "Amount of catalyst used in micromoles",
+                        "value": 1.5,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "solvent_volume",
+                        "define": "Volume of solvent used in milliliters",
+                        "value": 50.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_time",
+                        "define": "Polymerization time in minutes",
+                        "value": 10,
+                        "suggested_data_type": "Integer"
+                    }
+                ]
+            }
+        ]
+    ],
+    "ignore": [
+        true
+    ],
+    "data_id": [
+        "Table 1"
+    ],
+    "index": [
+        [
+            1,
+            14
+        ]
+    ]
+}

@@ -1,0 +1,829 @@
+{
+    "data": [
+        [
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = indenyl (1)]",
+                "yield_g": 0.264,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 721.68,
+                "PDI": 2.48,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "time_min": 10,
+                "activity": 15800.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [19]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 7.5,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion, alternating sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 291.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = indenyl (1)]",
+                "yield_g": 0.480,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 658.24,
+                "PDI": 2.42,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 28800.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [19]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 19.4,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "time_min": 10,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion, alternating sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 272.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = indenyl (1)]",
+                "yield_g": 0.438,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 501.41,
+                "PDI": 2.03,
+                "Td_c": null,
+                "Tg_c": null,
+                "time_min": 10,
+                "Tm_c": null,
+                "activity": 26300.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [19]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 32.9,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion, alternating sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 247.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_volume",
+                        "define": "Total volume of the reaction mixture",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_volume_unit",
+                        "define": "Unit for reaction volume",
+                        "value": "mL",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = Cp* (2)]",
+                "yield_g": 0.144,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 883.55,
+                "PDI": 2.05,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "time_min": 10,
+                "activity": 8640.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [20]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 1.1,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 431.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = Cp* (2)]",
+                "yield_g": 0.264,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 359.16,
+                "PDI": 2.19,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1580.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [20]",
+                "cocatalyst": "MAO",
+                "time_min": 10,
+                "cocatalyst_ratio": 3000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 7.4,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 164.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = Cp* (2)]",
+                "yield_g": 0.118,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 222.2,
+                "PDI": 2.20,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 708.0,
+                "time_min": 10,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [20]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 3000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 13.3,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 101.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_volume",
+                        "define": "Total volume of the reaction mixture",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_volume_unit",
+                        "define": "Unit for reaction volume",
+                        "value": "mL",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = t-BuC5H4 (3)]",
+                "yield_g": 0.455,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1116.49,
+                "PDI": 3.59,
+                "Td_c": null,
+                "time_min": 10,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 27300.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [19]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 18.1,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion, alternating sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 311.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = t-BuC5H4 (3)]",
+                "yield_g": 0.332,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 769.86,
+                "PDI": 3.29,
+                "Td_c": null,
+                "Tg_c": null,
+                "time_min": 10,
+                "Tm_c": null,
+                "activity": 19900.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [19]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 35.1,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion, alternating sequences",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 234.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = t-BuC5H4 (3)]",
+                "yield_g": 0.527,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1324.71,
+                "PDI": 3.59,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "time_min": 10,
+                "activity": 31600.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [19]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 33.5,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion, alternating sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 369.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_volume",
+                        "define": "Total volume of the reaction mixture",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_volume_unit",
+                        "define": "Unit for reaction volume",
+                        "value": "mL",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = t-BuC5H4 (3)]",
+                "yield_g": 0.372,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 226.46,
+                "PDI": 1.69,
+                "time_min": 10,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 22600.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [19]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 43.6,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion, alternating sequences",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 134.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_volume",
+                        "define": "Total volume of the reaction mixture",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_volume_unit",
+                        "define": "Unit for reaction volume",
+                        "value": "mL",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = Cp (4)]",
+                "yield_g": 0.099,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 1662.31,
+                "PDI": 2.47,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 14900.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [20]",
+                "cocatalyst": "MAO",
+                "time_min": 10,
+                "cocatalyst_ratio": 30000,
+                "comonomer_1_conC": 1.0,
+                "comonomer_1_incorp": 18.0,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion",
+                "pressure_atm": 4.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 673.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = Cp (4)]",
+                "yield_g": 0.192,
+                "2d_structure": null,
+                "3d_structure": null,
+                "Mw_kgmol": 332.93,
+                "PDI": 1.97,
+                "Td_c": null,
+                "time_min": 10,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 1150.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [20]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 3000,
+                "comonomer_1_conC": 2.5,
+                "comonomer_1_incorp": 41.3,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 169.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_volume",
+                        "define": "Total volume of the reaction mixture",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_volume_unit",
+                        "define": "Unit for reaction volume",
+                        "value": "mL",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            },
+            {
+                "catalyst_name": "Cp'TiCl2[N=C(t-Bu)2] [Cp' = Cp (4)]",
+                "yield_g": 0.151,
+                "2d_structure": null,
+                "3d_structure": null,
+                "time_min": 10,
+                "Mw_kgmol": 353.76,
+                "PDI": 2.01,
+                "Td_c": null,
+                "Tg_c": null,
+                "Tm_c": null,
+                "activity": 906.0,
+                "catalyst_ccdc_number": null,
+                "catalyst_ligand_type": "half-titanocene ketimide",
+                "catalyst_metal": "Ti",
+                "catalyst_metal_oxidation_state": 4,
+                "catalyst_reference": "Ref [20]",
+                "cocatalyst": "MAO",
+                "cocatalyst_ratio": 3000,
+                "comonomer_1_conC": 5.0,
+                "comonomer_1_incorp": 43.1,
+                "comonomer_1_name": "cyclopentene",
+                "comonomer_2_conC": null,
+                "comonomer_2_incorp": null,
+                "comonomer_2_name": null,
+                "comonomer_3_conC": null,
+                "comonomer_3_incorp": null,
+                "comonomer_3_name": null,
+                "elastic_modulus_mpa": null,
+                "monomer_Sequence_in_dimers_or_trimers": "exclusive 1,2-cyclopentene insertion",
+                "pressure_atm": 2.0,
+                "reaction_type": "Copolymerization",
+                "selectivity": null,
+                "temperature_c": 25,
+                "tensile_strength_mpa": null,
+                "additional_items": [
+                    {
+                        "item_name": "Mn",
+                        "define": "Number-average molecular weight",
+                        "value": 176.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "cyclopentene_concentration_unit",
+                        "define": "Unit for cyclic olefin concentration as provided in the paper",
+                        "value": "mmol/mL",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "cyclopentene_incorporation_mode",
+                        "define": "Regioselectivity of cyclopentene insertion into the polymer chain",
+                        "value": "exclusive 1,2-incorporation",
+                        "suggested_data_type": "String"
+                    },
+                    {
+                        "item_name": "reaction_volume",
+                        "define": "Total volume of the reaction mixture",
+                        "value": 10.0,
+                        "suggested_data_type": "Float"
+                    },
+                    {
+                        "item_name": "reaction_volume_unit",
+                        "define": "Unit for reaction volume",
+                        "value": "mL",
+                        "suggested_data_type": "String"
+                    }
+                ]
+            }
+        ]
+    ],
+    "data_id": [
+        "Table 1",
+        "Table 1",
+        "Table 1"
+    ],
+    "index": [
+        [
+            2,
+            4
+        ],
+        [
+            6,
+            8
+        ],
+        [
+            10,
+            16
+        ]
+    ]
+}
