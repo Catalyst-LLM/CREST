@@ -11,7 +11,7 @@
 
 ## 📊 Evaluation
 
-![](img/result.png)
+![](img/results.png)
 
 ## Quick Start
 
