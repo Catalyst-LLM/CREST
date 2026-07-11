@@ -6,7 +6,7 @@
 
 ## 🏗️ Architecture
 
-![](img/framework.png)  
+![](img/framework1.png)  
 *Figure: Overall architecture of the CREST pipeline – from document ingestion to structured, traceable records.*
 
 ## 📊 Evaluation
