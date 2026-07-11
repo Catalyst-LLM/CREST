@@ -44,3 +44,9 @@ streamlit run app/interface.py
 
 ![](img/confidence.png)
 
+
+## validation
+
+We provide 48 PDF files of test data along with their layout extraction results, which can be used to evaluate the performance of the extraction system. In addition, we supply annotated data for a subset of experimental tables, enabling the assessment of the extraction outputs. In the annotation, "data_id" denotes the experimental data extracted from a specific experimental table, "index" indicates the start and end rows of the experimental record, and the corresponding "data" represents the ground truth of the extracted experimental record. 
+
+
