@@ -1,0 +1,14 @@
+fast_langdetect==1.0.1
+fitz==0.0.1.dev2
+numpy==2.5.1
+openai==2.45.0
+opencv_contrib_python==4.10.0.84
+opencv_python==4.12.0.88
+opencv_python_headless==4.10.0.84
+pandas==3.0.3
+Pillow==12.3.0
+plotly==6.2.0
+protobuf==7.35.1
+python_Levenshtein==0.27.3
+PyYAML==6.0.3
+streamlit==1.56.0
